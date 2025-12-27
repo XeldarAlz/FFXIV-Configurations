@@ -35,7 +35,7 @@ pyinstaller --onefile ^
     --add-data "..\Configs\FFXIV Configs;FFXIV Configs" ^
     --add-data "..\Configs\Mods Configs;Mods Configs" ^
     --add-data "..\Configs\ReShade Configs;ReShade Configs" ^
-    --add-data "..\Configs\XIVLauncher Configs;XIVLauncher Configs" ^
+    --add-data "..\Configs\Plugin Configs;Plugin Configs" ^
     --clean ^
     ffxiv_config_installer.py
 

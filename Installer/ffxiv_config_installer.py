@@ -52,7 +52,7 @@ class FFXIVConfigInstaller(ctk.CTk):
         self.reshade_presets_source = self.app_dir / "ReShade Configs" / "reshade-presets"
         self.reshade_shaders_source = self.app_dir / "ReShade Configs" / "reshade-shaders"
         self.ffxiv_config_source = self.app_dir / "FFXIV Configs" / "FINAL FANTASY XIV - A Realm Reborn"
-        self.plugin_configs_source = self.app_dir / "XIVLauncher Configs" / "Plugins" / "pluginConfigs"
+        self.plugin_configs_source = self.app_dir / "Plugin Configs" / "pluginConfigs"
         
         self.game_path: Optional[Path] = None
         self.documents_path = Path(os.path.expanduser("~")) / "Documents" / "My Games"
