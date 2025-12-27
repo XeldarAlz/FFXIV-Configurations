@@ -1,0 +1,17 @@
+{
+  "PartyListEnabled": true,
+  "PartyListSelf": true,
+  "PartyListMembers": true,
+  "PartyListHpEnabled": true,
+  "PartyListMpEnabled": true,
+  "PartyListGpEnabled": true,
+  "PartyListCpEnabled": true,
+  "ParameterWidgetEnabled": true,
+  "ParameterHpEnabled": true,
+  "ParameterMpEnabled": true,
+  "ParameterGpEnabled": true,
+  "ParameterCpEnabled": true,
+  "PercentageSignEnabled": true,
+  "DecimalPlaces": 0,
+  "ShowDecimalsBelowHundredOnly": false
+}

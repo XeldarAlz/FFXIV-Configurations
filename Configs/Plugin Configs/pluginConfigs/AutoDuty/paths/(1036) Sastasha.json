@@ -1,0 +1,261 @@
+{
+  "Actions": [
+    {
+      "Tag": "None",
+      "Name": "DutySpecificCode",
+      "Position": {
+        "X": 347.75,
+        "Y": 44.14,
+        "Z": -223.21
+      },
+      "Arguments": [
+        "1"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": 132.58,
+        "Y": 27.83,
+        "Z": -100.06
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "DutySpecificCode",
+      "Position": {
+        "X": 90.26,
+        "Y": 27.2,
+        "Z": -56.04
+      },
+      "Arguments": [
+        "2"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "DutySpecificCode",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "3"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": 71.8,
+        "Y": 30.37,
+        "Z": -44.91
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "2000216"
+      ],
+      "Note": "Inconspicuous Switch"
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": -27.17,
+        "Y": 22.86,
+        "Z": 56.34
+      },
+      "Arguments": [
+        "<-31,24,63>"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": -91.82,
+        "Y": 13.84,
+        "Z": 145.88
+      },
+      "Arguments": [
+        "2000250"
+      ],
+      "Note": "Captain's Quarters Key"
+    },
+    {
+      "Tag": "Comment",
+      "Name": "<-- Comment -->",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": "<-- Below line is a temporary bandaid until Issue #409 is implemented -->"
+    },
+    {
+      "Tag": "None",
+      "Name": "ConditionAction",
+      "Position": {
+        "X": -95.1,
+        "Y": 19.9,
+        "Z": 171.1
+      },
+      "Arguments": [
+        "ItemCount;2000512;<;1&ModifyIndex;7"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": -95.1,
+        "Y": 19.9,
+        "Z": 171.1
+      },
+      "Arguments": [
+        "2000227"
+      ],
+      "Note": "Captain's Quarters"
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": -95.15,
+        "Y": 20.01,
+        "Z": 190.03
+      },
+      "Arguments": [
+        "2000255"
+      ],
+      "Note": "Waverider Gate Key"
+    },
+    {
+      "Tag": "Comment",
+      "Name": "<-- Comment -->",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": "<-- Below line is a temporary bandaid until Issue #409 is implemented -->"
+    },
+    {
+      "Tag": "None",
+      "Name": "ConditionAction",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "ItemCount;2000513;<;1&ModifyIndex;11"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": -129.54,
+        "Y": 16.3,
+        "Z": 156.32
+      },
+      "Arguments": [
+        "2000231"
+      ],
+      "Note": "Waverider Gate"
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": -183.12,
+        "Y": 6.38,
+        "Z": 244.52
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": -332.47,
+        "Y": 5.57,
+        "Z": 317.23
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    }
+  ],
+  "Meta": {
+    "CreatedAt": 122,
+    "Changelog": [
+      {
+        "Version": 132,
+        "Change": " "
+      },
+      {
+        "Version": 161,
+        "Change": "Converted to new JSON Structure"
+      },
+      {
+        "Version": 163,
+        "Change": "Converted to newer JSON Structure"
+      },
+      {
+        "Version": 164,
+        "Change": "Converted to JSON Structure with Tags"
+      },
+      {
+        "Version": 189,
+        "Change": "Adjusted tags to string values"
+      },
+      {
+        "Version": 230,
+        "Change": "Adjusted boss loot search"
+      },
+      {
+        "Version": 231,
+        "Change": "Re-added last boss step"
+      }
+    ],
+    "Notes": []
+  }
+
+}
+

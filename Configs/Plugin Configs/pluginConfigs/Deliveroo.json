@@ -1,0 +1,46 @@
+{
+  "$type": "Deliveroo.Configuration, Deliveroo",
+  "Version": 2,
+  "ItemsAvailableForPurchase": [],
+  "ItemsAvailableToPurchase": [
+    {
+      "$type": "Deliveroo.Configuration+PurchaseOption, Deliveroo",
+      "ItemId": 21072,
+      "SameQuantityForAllLists": false,
+      "GlobalLimit": 0
+    }
+  ],
+  "ItemsToPurchase": [
+    {
+      "$type": "Deliveroo.Configuration+PurchasePriority, Deliveroo",
+      "InternalId": "a982dc46-3c71-4d35-b3fe-f749b5768a26",
+      "ItemId": 0,
+      "Limit": 0,
+      "Enabled": true,
+      "Type": 1,
+      "CheckRetainerInventory": false
+    }
+  ],
+  "ReservedSealCount": 0,
+  "ReserveDifferentSealCountAtMaxRank": false,
+  "ReservedSealCountAtMaxRank": 0,
+  "ChatType": 1,
+  "PauseAtRank": 0,
+  "BehaviorOnOtherWorld": 1,
+  "DisableFrameLimiter": true,
+  "UncapFrameRate": false,
+  "QuickTurnInKey": 16,
+  "TurnInWindowConfig": {
+    "$type": "Deliveroo.Configuration+MinimizableWindowConfig, Deliveroo",
+    "IsMinimized": false,
+    "IsPinned": false,
+    "IsClickthrough": false,
+    "Alpha": null
+  },
+  "ConfigWindowConfig": {
+    "$type": "LLib.ImGui.WindowConfig, LLib",
+    "IsPinned": false,
+    "IsClickthrough": false,
+    "Alpha": null
+  }
+}

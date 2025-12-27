@@ -1,0 +1,403 @@
+{
+  "Actions": [
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 120.76,
+        "Y": -9.31,
+        "Z": 37.99
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 110.63,
+        "Y": -8.75,
+        "Z": 39.7
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 86.21,
+        "Y": -8.64,
+        "Z": 34.64
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 81.39,
+        "Y": -7.51,
+        "Z": 20.98
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 62.93,
+        "Y": -9.14,
+        "Z": 6.8
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 56.48,
+        "Y": -7.92,
+        "Z": 12.5
+      },
+      "Arguments": [
+        "true"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "true"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": 35.25,
+        "Y": -9.34,
+        "Z": 2.7
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 15.31,
+        "Y": -10.07,
+        "Z": -43.92
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "2002650"
+      ],
+      "Note": "Morbol Fruit"
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": -35.68,
+        "Y": -17.06,
+        "Z": -90.29
+      },
+      "Arguments": [
+        "true"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": -125.85,
+        "Y": -29.76,
+        "Z": -147.08
+      },
+      "Arguments": [
+        "true"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": -44.59773,
+        "Y": -15.86591,
+        "Z": -128.01991
+      },
+      "Arguments": [],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": -116.31929,
+        "Y": -29.063301,
+        "Z": -111.219536
+      },
+      "Arguments": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": -158.74,
+        "Y": -30.5,
+        "Z": -141.24
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -210.27,
+        "Y": -26.01,
+        "Z": -177.75
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": -211.62015,
+        "Y": -26.107935,
+        "Z": -210.038
+      },
+      "Arguments": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -221.18,
+        "Y": -25.74,
+        "Z": -176.3
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -230.55,
+        "Y": -26.72,
+        "Z": -178.32
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -240.34,
+        "Y": -26.37,
+        "Z": -177.88
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -337.09,
+        "Y": -32.16,
+        "Z": -143.79
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "true"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -337.54,
+        "Y": -33.03,
+        "Z": -127.61
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": -334.99026,
+        "Y": -33.48112,
+        "Z": -113.75233
+      },
+      "Arguments": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": -405.21,
+        "Y": -33.46,
+        "Z": -125.36
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    }
+  ],
+  "Meta": {
+    "CreatedAt": 106,
+    "Changelog": [
+      {
+        "Version": 161,
+        "Change": "Converted to new JSON Structure"
+      },
+      {
+        "Version": 163,
+        "Change": "Converted to newer JSON Structure"
+      },
+      {
+        "Version": 164,
+        "Change": "Converted to JSON Structure with Tags"
+      },
+      {
+        "Version": 189,
+        "Change": "Adjusted tags to string values"
+      },
+      {
+        "Version": 189,
+        "Change": "Added W2W"
+      },
+      {
+        "Version": 241,
+        "Change": ""
+      }
+    ],
+    "Notes": []
+  }
+}

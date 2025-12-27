@@ -1,0 +1,5 @@
+This mod is only for help Textools user to remove all icons quickly.
+
+First install the full patch of vergil theme.
+After that,install this modpack to collect all icons into one mod.
+And then disable it and then delet it.

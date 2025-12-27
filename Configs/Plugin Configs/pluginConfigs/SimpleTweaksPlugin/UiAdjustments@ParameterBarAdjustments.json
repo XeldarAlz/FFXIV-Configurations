@@ -1,0 +1,53 @@
+{
+  "TargetCycling": {
+    "Hide": true,
+    "OffsetX": 100,
+    "OffsetY": 1
+  },
+  "HideHpTitle": false,
+  "HpBar": {
+    "Hide": false,
+    "OffsetX": 96,
+    "OffsetY": 12
+  },
+  "HpValue": {
+    "Hide": false,
+    "OffsetX": 24,
+    "OffsetY": 7
+  },
+  "HideMpTitle": false,
+  "MpBar": {
+    "Hide": false,
+    "OffsetX": 256,
+    "OffsetY": 12
+  },
+  "MpValue": {
+    "Hide": false,
+    "OffsetX": 24,
+    "OffsetY": 7
+  },
+  "AutoHideMp": false,
+  "CenterHpWithMpHidden": false,
+  "HpAddRgb": {
+    "X": 20.0,
+    "Y": 75.0,
+    "Z": 0.0
+  },
+  "MpAddRgb": {
+    "X": 120.0,
+    "Y": 0.0,
+    "Z": 60.0
+  },
+  "GpAddRgb": {
+    "X": 0.0,
+    "Y": 70.0,
+    "Z": 100.0
+  },
+  "CpAddRgb": {
+    "X": 70.0,
+    "Y": 10.0,
+    "Z": 100.0
+  },
+  "CancelDefaultTint": false,
+  "Version": 1
+}

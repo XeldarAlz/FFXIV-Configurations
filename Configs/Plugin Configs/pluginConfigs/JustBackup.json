@@ -1,0 +1,24 @@
+{
+  "$type": "JustBackup.Config, JustBackup",
+  "BackupPath": "",
+  "TempPath": "",
+  "DeleteBackups": true,
+  "DeleteToRecycleBin": true,
+  "DaysToKeep": 7,
+  "BackupAll": false,
+  "ExcludeReplays": false,
+  "UseDefaultZip": false,
+  "BackupPluginConfigs": true,
+  "BackupsToKeep": 10,
+  "NoThreadLimit": false,
+  "MaxThreads": 99,
+  "Ignore": [],
+  "TempPathes": [
+    "C:\\Users\\xelda\\AppData\\Local\\Temp\\JustBackup-1766823201012"
+  ],
+  "OverrideGamePath": "",
+  "MinIntervalBetweenBackups": 0,
+  "LastSuccessfulBackup": 1766823233429,
+  "CopyThrottle": 0,
+  "Version": 1
+}

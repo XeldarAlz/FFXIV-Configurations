@@ -1,0 +1,10 @@
+{
+  "ThrottleF": 0.1,
+  "Cooldown": 0.1,
+  "MaxDistance": 0.5,
+  "MaxHeight": 0.1,
+  "ExcludeExit": false,
+  "ExcludeCombat": false,
+  "OnlyStanding": false,
+  "InteractMethod": 1
+}

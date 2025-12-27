@@ -1,0 +1,165 @@
+{
+  "Actions": [
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 142.04065,
+        "Y": -8.21857,
+        "Z": 48.576538
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": 33.479492,
+        "Y": -8.698334,
+        "Z": 3.8162766
+      },
+      "Arguments": [
+        "<18.5,-9.5,-43>"
+      ],
+      "Conditions": [],
+      "Note": "Locksmith"
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -40.199345,
+        "Y": -16.490795,
+        "Z": -96.7561
+      },
+      "Arguments": [
+        ""
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": -44.29241,
+        "Y": -15.764131,
+        "Z": -128.33527
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -77.19089,
+        "Y": -25.223156,
+        "Z": -143.37308
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": -116.277405,
+        "Y": -29.09835,
+        "Z": -111.02179
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": -126.20563,
+        "Y": -30.000011,
+        "Z": -151.04462
+      },
+      "Arguments": [
+        "true"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": -148.8825,
+        "Y": -30.000011,
+        "Z": -143.786
+      },
+      "Arguments": [
+        ""
+      ],
+      "Conditions": [],
+      "Note": "Coincounter"
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -338.6293,
+        "Y": -31.935883,
+        "Z": -141.96301
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": -334.9595,
+        "Y": -33.42962,
+        "Z": -113.51168
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": -402.33862,
+        "Y": -31.952211,
+        "Z": -125.32716
+      },
+      "Arguments": [
+        ""
+      ],
+      "Conditions": [],
+      "Note": "Miser's Mistress"
+    }
+  ],
+  "Meta": {
+    "CreatedAt": 279,
+    "Changelog": [],
+    "Notes": []
+  }
+}

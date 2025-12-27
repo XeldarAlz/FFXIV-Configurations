@@ -1,0 +1,422 @@
+{
+  "Actions": [
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 174.18571,
+        "Y": 47.06616,
+        "Z": 598.0392
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "Wait",
+      "Position": {
+        "X": 173.83524,
+        "Y": 47.145382,
+        "Z": 558.1262
+      },
+      "Arguments": [
+        "2500"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 207.0181,
+        "Y": 46.46008,
+        "Z": 468.2999
+      },
+      "Arguments": [
+        "true"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 205.68239,
+        "Y": 46.516533,
+        "Z": 469.58447
+      },
+      "Arguments": [
+        ""
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 148.76195,
+        "Y": 47.00103,
+        "Z": 473.00464
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "Wait",
+      "Position": {
+        "X": 111.8551,
+        "Y": 47.00088,
+        "Z": 474.5831
+      },
+      "Arguments": [
+        "2500"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 84.35542,
+        "Y": 47.00061,
+        "Z": 442.90088
+      },
+      "Arguments": [
+        "true"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": 83.39772,
+        "Y": 48.00001,
+        "Z": 373.1818
+      },
+      "Arguments": [
+        ""
+      ],
+      "Conditions": [],
+      "Note": "Treno Catoblepas"
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 104.183945,
+        "Y": 38.056477,
+        "Z": 275.93433
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 106.53514,
+        "Y": 36.643547,
+        "Z": 267.49857
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "IsReady"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 115.66308,
+        "Y": -109.45557,
+        "Z": -16.533577
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "Wait",
+      "Position": {
+        "X": 159.63562,
+        "Y": -110.09142,
+        "Z": -34.624504
+      },
+      "Arguments": [
+        "2500"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": 212.99786,
+        "Y": -109.36616,
+        "Z": -78.13025
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 238.41638,
+        "Y": -109.45135,
+        "Z": -72.48162
+      },
+      "Arguments": [
+        "true"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": 289.66934,
+        "Y": -107.85898,
+        "Z": -63.581013
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 281.27554,
+        "Y": -108.00865,
+        "Z": -91.54782
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "Wait",
+      "Position": {
+        "X": 281.87848,
+        "Y": -107.922554,
+        "Z": -127.31936
+      },
+      "Arguments": [
+        "2500"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 281.54443,
+        "Y": -102.52871,
+        "Z": -185.22304
+      },
+      "Arguments": [
+        "true"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": 281.25424,
+        "Y": -98.60865,
+        "Z": -289.38254
+      },
+      "Arguments": [
+        ""
+      ],
+      "Conditions": [],
+      "Note": "Amdusias"
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 237.06505,
+        "Y": -115.06829,
+        "Z": -355.84192
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "Wait",
+      "Position": {
+        "X": 236.2591,
+        "Y": -116.0437,
+        "Z": -380.96
+      },
+      "Arguments": [
+        "2500"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 274.21878,
+        "Y": -115.97899,
+        "Z": -394.8646
+      },
+      "Arguments": [
+        "true"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 237.60649,
+        "Y": -118.59191,
+        "Z": -457.48132
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": 218.493,
+        "Y": -118.4818,
+        "Z": -462.47168
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 232.77312,
+        "Y": -118.45331,
+        "Z": -467.81558
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "Wait",
+      "Position": {
+        "X": 238.13254,
+        "Y": -118.46068,
+        "Z": -489.47415
+      },
+      "Arguments": [
+        "2500"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": 281.5814,
+        "Y": -115.97899,
+        "Z": -521.38995
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 281.50967,
+        "Y": -115.97899,
+        "Z": -552.91534
+      },
+      "Arguments": [
+        "true"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": 280.99518,
+        "Y": -115.112564,
+        "Z": -624.6829
+      },
+      "Arguments": [
+        "<281,-115,-637.5>"
+      ],
+      "Conditions": [],
+      "Note": "Thundergust Griffin"
+    }
+  ],
+  "Meta": {
+    "CreatedAt": 279,
+    "Changelog": [
+      {
+        "Version": 279,
+        "Change": "Adjusted first pull"
+      }
+    ],
+    "Notes": []
+  }
+}

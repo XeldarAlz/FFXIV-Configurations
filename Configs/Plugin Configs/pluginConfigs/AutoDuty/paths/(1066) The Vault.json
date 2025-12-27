@@ -1,0 +1,290 @@
+{
+  "Actions": [
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -0.12,
+        "Y": -299.98,
+        "Z": -32.1
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -0.18,
+        "Y": -299.98,
+        "Z": -65.91
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Unsynced",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -16.92,
+        "Y": -291.96,
+        "Z": -91.28
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": -0.04,
+        "Y": -291.94,
+        "Z": -100.0
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": 76.11,
+        "Y": -263.98,
+        "Z": -31.52
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": 68.08,
+        "Y": -263.98,
+        "Z": -14.97
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 96.58,
+        "Y": -263.98,
+        "Z": -0.02
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 113.58245,
+        "Y": -263.97678,
+        "Z": -0.47489324
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "IsReady"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 60.12,
+        "Y": -0.0,
+        "Z": 59.93
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 18.49,
+        "Y": 0.0,
+        "Z": 69.07
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Unsynced",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 16.0,
+        "Y": 0.0,
+        "Z": 60.92
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": -0.08,
+        "Y": 0.0,
+        "Z": 71.76
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": -78.14,
+        "Y": 0.0,
+        "Z": -15.63
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -101.28,
+        "Y": 0.0,
+        "Z": -0.17
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -120.99,
+        "Y": 0.0,
+        "Z": -0.16
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "IsReady"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": -59.8,
+        "Y": 285.0,
+        "Z": -18.01
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -60.32,
+        "Y": 291.0,
+        "Z": 53.62
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": 0.03,
+        "Y": 300.0,
+        "Z": 4.11
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    }
+  ],
+  "Meta": {
+    "CreatedAt": 136,
+    "Changelog": [
+      {
+        "Version": 161,
+        "Change": "Converted to new JSON Structure"
+      },
+      {
+        "Version": 163,
+        "Change": "Converted to newer JSON Structure"
+      },
+      {
+        "Version": 164,
+        "Change": "Converted to JSON Structure with Tags"
+      },
+      {
+        "Version": 189,
+        "Change": "Adjusted tags to string values"
+      },
+      {
+        "Version": 252,
+        "Change": "AutoMoves replaced"
+      }
+    ],
+    "Notes": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$type": "Congratulations.Configuration, Congratulations",
+  "OneThird": {
+    "$type": "Congratulations.Configuration+SubConfiguration, Congratulations",
+    "PlaySound": true,
+    "UseCustomSound": false,
+    "CustomFilePath": null,
+    "Volume": 50,
+    "ApplySfxVolume": true
+  },
+  "TwoThirds": {
+    "$type": "Congratulations.Configuration+SubConfiguration, Congratulations",
+    "PlaySound": true,
+    "UseCustomSound": false,
+    "CustomFilePath": null,
+    "Volume": 50,
+    "ApplySfxVolume": true
+  },
+  "ThreeThirds": {
+    "$type": "Congratulations.Configuration+SubConfiguration, Congratulations",
+    "PlaySound": true,
+    "UseCustomSound": false,
+    "CustomFilePath": null,
+    "Volume": 50,
+    "ApplySfxVolume": true
+  },
+  "AllSevenInAFullParty": {
+    "$type": "Congratulations.Configuration+SubConfiguration, Congratulations",
+    "PlaySound": true,
+    "UseCustomSound": false,
+    "CustomFilePath": null,
+    "Volume": 50,
+    "ApplySfxVolume": true
+  },
+  "Version": 0
+}

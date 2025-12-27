@@ -1,0 +1,8 @@
+{
+  "$type": "Telesto.Config, Telesto",
+  "Version": 0,
+  "Opened": false,
+  "AutostartEndpoint": true,
+  "HttpEndpoint": "http://localhost:45678/",
+  "DismissUpgrade": false
+}

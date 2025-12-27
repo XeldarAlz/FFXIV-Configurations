@@ -1,0 +1,25 @@
+{
+  "$type": "Directional.Configuration, Directional",
+  "AlwaysDrawDirections": false,
+  "Colour": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "ColourBorder": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "CombatOnly": true,
+  "DrawCardinals": true,
+  "DrawInterCardinals": false,
+  "Enabled": true,
+  "FontSize": 35,
+  "TrueNorth": true,
+  "Version": 0
+}

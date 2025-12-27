@@ -1,0 +1,39 @@
+{
+  "$type": "Visibility.Configuration.VisibilityConfiguration, Visibility",
+  "Enabled": true,
+  "HideStar": false,
+  "AdvancedEnabled": false,
+  "EnableContextMenu": false,
+  "ShowTargetOfTarget": false,
+  "TerritoryConfigDictionary": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.UInt16, System.Private.CoreLib],[Visibility.Configuration.TerritoryConfig, Visibility]], System.Private.CoreLib",
+    "0": {
+      "$type": "Visibility.Configuration.TerritoryConfig, Visibility",
+      "HidePet": false,
+      "HidePlayer": false,
+      "HideMinion": false,
+      "HideChocobo": false,
+      "HidePetInCombat": false,
+      "HidePlayerInCombat": false,
+      "HideMinionInCombat": false,
+      "HideChocoboInCombat": false,
+      "ShowCompanyPet": false,
+      "ShowCompanyPlayer": false,
+      "ShowCompanyMinion": false,
+      "ShowCompanyChocobo": false,
+      "ShowPartyPet": false,
+      "ShowPartyPlayer": false,
+      "ShowPartyMinion": false,
+      "ShowPartyChocobo": false,
+      "ShowFriendPet": false,
+      "ShowFriendPlayer": false,
+      "ShowFriendMinion": false,
+      "ShowFriendChocobo": false,
+      "ShowDeadPlayer": false
+    }
+  },
+  "Version": 0,
+  "Language": 0,
+  "VoidList": [],
+  "Whitelist": []
+}

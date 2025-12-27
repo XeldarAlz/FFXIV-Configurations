@@ -1,0 +1,6 @@
+{
+  "FormatString": "{0}, {1}, {2}, {3}",
+  "ShowInstanceNumber": true,
+  "TooltipFormatString": "{0}, {1}, {2}, {3}",
+  "UsePreciseHousingLocation": false
+}

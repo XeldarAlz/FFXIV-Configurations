@@ -1,0 +1,42 @@
+﻿{
+  "Version": 2,
+  "Id": "3c7eea69-0fe2-40a9-b143-53bb3afe8846",
+  "Name": "UI",
+  "Settings": {
+    "Classic AST skill remake[DT]=占星职业包": {
+      "Settings": {
+        "Magic/魔法": 1983,
+        "Ability/能力技": 8111,
+        "Celestial Opposition/天星冲日": 0,
+        "Lightspeed/光速": 0,
+        "Role skills/职能技能": 3
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Classic BLM skill remake[DT]=黑魔职业包": {
+      "Settings": {
+        "Common Black Magic casting VFX/通用黑魔法读条特效": 1,
+        "Blizzard spells/冰魔法": 4095,
+        "Fire spells/火魔法": 523775,
+        "Thunder Spells/雷魔法": 1023,
+        "Unaspected Spells/无属性魔法": 1021
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "FrostUI - MaoMao DLC": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "frost_ui": {
+      "Settings": {
+        "_collection": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    }
+  },
+  "Inheritance": []
+}

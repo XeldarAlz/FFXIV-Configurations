@@ -1,0 +1,47 @@
+﻿{
+  "Version": 7,
+  "FirstUse": false,
+  "Mode": 1,
+  "BetaKey": "",
+  "DeepDungeons": {
+    "Traps": {
+      "Show": true,
+      "Color": 1711276287,
+      "OnlyVisibleAfterPomander": true,
+      "Fill": false
+    },
+    "HoardCoffers": {
+      "Show": true,
+      "Color": 1728052992,
+      "OnlyVisibleAfterPomander": true,
+      "Fill": false
+    },
+    "SilverCoffers": {
+      "Show": true,
+      "Color": 1728053247,
+      "OnlyVisibleAfterPomander": false,
+      "Fill": true
+    },
+    "GoldCoffers": {
+      "Show": true,
+      "Color": 1711341567,
+      "OnlyVisibleAfterPomander": false,
+      "Fill": true
+    }
+  },
+  "Accounts": [
+    {
+      "Format": 2,
+      "Id": "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnSSrcZk9R02wqQcQKstIrQAAAAACAAAAAAAQZgAAAAEAACAAAAC9/zz8o31Pi6osOQsrOhgPZAUUmhJq6UbjkFLkeayjAAAAAAAOgAAAAAIAACAAAABgRFMQNEf9lvqRI7AznOPXiG+mqtblfounkLH1XUDKsCAAAAA28TRAvyxKlAJminJr7Grm9/CacepNVyoMOTTkdcTK7EAAAAAyoxUpanJRFZah+1q1FPM2z2GicUERPINUFn3/Y9LW1eRVS9oKVb8HZm4yKpEf4yN6mFYHayW1IUvJWL7MyC4X",
+      "Entropy": "JIh4/hz4nu5GvfdShejFqg==",
+      "Server": "https://deep-dungeon.api.puni.sh",
+      "CachedRoles": [
+        "default"
+      ]
+    }
+  ],
+  "Backups": {
+    "MinimumBackupsToKeep": 3,
+    "DaysToDeleteAfter": 21
+  }
+}

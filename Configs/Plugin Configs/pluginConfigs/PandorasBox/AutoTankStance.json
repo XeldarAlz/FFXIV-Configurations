@@ -1,0 +1,8 @@
+{
+  "Throttle": 0.1,
+  "MaxParty": 1,
+  "OnlyInDuty": false,
+  "ActivateOnDeath": false,
+  "NoOtherTanks": false,
+  "ActivateInFate": false
+}

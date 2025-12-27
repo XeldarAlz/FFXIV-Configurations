@@ -1,0 +1,417 @@
+{
+  "Actions": [
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 89.16,
+        "Y": -21.12,
+        "Z": 195.76
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -79.36419,
+        "Y": 1.5648358,
+        "Z": 188.34726
+      },
+      "Arguments": [],
+      "Note": ""
+    },
+    {
+      "Tag": "Revival",
+      "Name": "Revival",
+      "Position": {
+        "X": -107.79,
+        "Y": 10.82,
+        "Z": 148.36
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": -108.06,
+        "Y": 11.0,
+        "Z": 118.3
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -145.12,
+        "Y": 22.12,
+        "Z": 75.04
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": -72.13,
+        "Y": 40.0,
+        "Z": 54.97
+      },
+      "Arguments": [
+        "1000"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -60.254868,
+        "Y": 41.435062,
+        "Z": 52.039204
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "IsReady"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -38.0,
+        "Y": 55.0,
+        "Z": 18.0
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "IsReady"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -50.016525,
+        "Y": 55.05799,
+        "Z": 15.751594
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "true"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "IsReady"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -80.91,
+        "Y": 85.14,
+        "Z": 13.47
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -95.3,
+        "Y": 78.16,
+        "Z": 24.56
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": -94.77,
+        "Y": 70.0,
+        "Z": 48.41
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -96.64,
+        "Y": 70.0,
+        "Z": 41.58
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -107.03283,
+        "Y": 71.05579,
+        "Z": 43.542774
+      },
+      "Arguments": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "IsReady"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": -160.78,
+        "Y": 80.03,
+        "Z": 34.33
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -63.5,
+        "Y": 101.84,
+        "Z": -15.99
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -53.99,
+        "Y": 119.58,
+        "Z": -21.28
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "IsReady"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Revival",
+      "Name": "Revival",
+      "Position": {
+        "X": -53.32,
+        "Y": 321.29,
+        "Z": -32.54
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": -53.21,
+        "Y": 323.0,
+        "Z": -57.42
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": -121.52,
+        "Y": 328.08,
+        "Z": -78.02
+      },
+      "Arguments": [
+        "2000"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": -153.31,
+        "Y": 334.71,
+        "Z": 0.73
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": -69.5,
+        "Y": 358.07,
+        "Z": -91.98
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Revival",
+      "Name": "Revival",
+      "Position": {
+        "X": -53.94,
+        "Y": 376.01,
+        "Z": -159.15
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": -53.98,
+        "Y": 378.0,
+        "Z": -197.58
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    }
+  ],
+  "Meta": {
+    "CreatedAt": 172,
+    "Changelog": [
+      {
+        "Version": 189,
+        "Change": "Adjusted tags to string values"
+      },
+      {
+        "Version": 250,
+        "Change": "Fixing Zoraal Ja Story Moment"
+      }
+    ],
+    "Notes": []
+  }
+}

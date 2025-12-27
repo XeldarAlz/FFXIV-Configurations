@@ -1,0 +1,23 @@
+{
+  "CollectibleStop": false,
+  "ShiftStop": false,
+  "Gathering": false,
+  "RememberLastNode": false,
+  "Use500GPYield": false,
+  "GP500Yield": 500,
+  "Use100GPYield": false,
+  "GP100Yield": 100,
+  "UseTidings": false,
+  "GPTidings": 200,
+  "GatherersBoon": 100,
+  "UseGivingLand": false,
+  "GPGivingLand": 200,
+  "UseTwelvesBounty": false,
+  "GPTwelvesBounty": 150,
+  "UseSolidReason": false,
+  "GPSolidReason": 300,
+  "UseLuck": false,
+  "GPLuck": 200,
+  "GatherChanceUp": false,
+  "GPGatherChanceUp": 100
+}

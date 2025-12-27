@@ -1,0 +1,17 @@
+{
+  "$type": "MarketBoardPlugin.MBPluginConfig, MarketBoardPlugin",
+  "Version": 1,
+  "CrossDataCenter": false,
+  "CrossWorld": false,
+  "WatchForHovered": true,
+  "History": [],
+  "ContextMenuIntegration": true,
+  "PriceIconShown": true,
+  "NoGilSalesTax": false,
+  "KofiHidden": false,
+  "ItemRefreshTimeout": 30000,
+  "RecentHistoryDisabled": false,
+  "Favorites": [],
+  "ListingCount": 50,
+  "HistoryCount": 50
+}

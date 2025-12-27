@@ -1,0 +1,306 @@
+{
+  "$type": "DelvUI.Interface.Party.PartyFramesBuffsConfig, DelvUI",
+  "HealthBarAnchor": 2,
+  "ShowBuffs": true,
+  "ShowDebuffs": false,
+  "Size": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 136.0,
+    "Y": 25.0
+  },
+  "IconPadding": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 1.0
+  },
+  "Preview": false,
+  "FillRowsFirst": true,
+  "Directions": 2,
+  "Limit": 5,
+  "ShowPermanentEffects": true,
+  "ShowPermanentFirst": false,
+  "ShowOnlyMine": false,
+  "ShowMineFirst": true,
+  "IncludePetAsOwn": false,
+  "SortByDuration": false,
+  "DurationSortType": 0,
+  "ShowTooltips": true,
+  "DisableInteraction": false,
+  "HideWhenDead": true,
+  "IconConfig": {
+    "$type": "DelvUI.Interface.StatusEffects.StatusEffectIconConfig, DelvUI",
+    "Size": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 25.0,
+      "Y": 25.0
+    },
+    "CropIcon": true,
+    "BorderConfig": {
+      "$type": "DelvUI.Interface.StatusEffects.StatusEffectIconBorderConfig, DelvUI",
+      "Color": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "Thickness": 1,
+      "Enabled": true,
+      "Version": "2.6.2.1"
+    },
+    "ShadowConfig": {
+      "$type": "DelvUI.Interface.GeneralElements.ShadowConfig, DelvUI",
+      "Color": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "Thickness": 1,
+      "Offset": 2,
+      "Enabled": false,
+      "Version": "2.6.2.1"
+    },
+    "DispellableBorderConfig": {
+      "$type": "DelvUI.Interface.StatusEffects.StatusEffectIconBorderConfig, DelvUI",
+      "Color": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.5529412,
+          "Y": 0.80784315,
+          "Z": 0.8980392,
+          "W": 1.0
+        }
+      },
+      "Thickness": 2,
+      "Enabled": false,
+      "Version": "2.6.2.1"
+    },
+    "OwnedBorderConfig": {
+      "$type": "DelvUI.Interface.StatusEffects.StatusEffectIconBorderConfig, DelvUI",
+      "Color": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.13725491,
+          "Y": 0.7019608,
+          "Z": 0.27058825,
+          "W": 1.0
+        }
+      },
+      "Thickness": 1,
+      "Enabled": false,
+      "Version": "2.6.2.1"
+    },
+    "DurationLabelConfig": {
+      "$type": "DelvUI.Interface.GeneralElements.LabelConfig, DelvUI",
+      "FontID": "Expressway_14",
+      "FrameAnchor": 0,
+      "TextAnchor": 0,
+      "Color": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "ShowOutline": true,
+      "OutlineColor": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ShadowConfig": {
+        "$type": "DelvUI.Interface.GeneralElements.ShadowConfig, DelvUI",
+        "Color": {
+          "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+          "Vector": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+          }
+        },
+        "Thickness": 1,
+        "Offset": 2,
+        "Enabled": false,
+        "Version": "2.6.2.1"
+      },
+      "UseJobColor": false,
+      "UseRoleColor": false,
+      "Strata": 6,
+      "Position": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "Enabled": true,
+      "StrataLevel": 6,
+      "Version": "2.6.2.1"
+    },
+    "StacksLabelConfig": {
+      "$type": "DelvUI.Interface.GeneralElements.LabelConfig, DelvUI",
+      "FontID": "Expressway_14",
+      "FrameAnchor": 3,
+      "TextAnchor": 0,
+      "Color": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "ShowOutline": true,
+      "OutlineColor": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ShadowConfig": {
+        "$type": "DelvUI.Interface.GeneralElements.ShadowConfig, DelvUI",
+        "Color": {
+          "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+          "Vector": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+          }
+        },
+        "Thickness": 1,
+        "Offset": 2,
+        "Enabled": false,
+        "Version": "2.6.2.1"
+      },
+      "UseJobColor": false,
+      "UseRoleColor": false,
+      "Strata": 6,
+      "Position": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "Enabled": true,
+      "StrataLevel": 6,
+      "Version": "2.6.2.1"
+    },
+    "Enabled": true,
+    "Version": "2.6.2.1"
+  },
+  "BlacklistConfig": {
+    "$type": "DelvUI.Interface.StatusEffects.StatusEffectsBlacklistConfig, DelvUI",
+    "FilterType": 1,
+    "List": {
+      "$type": "System.Collections.Generic.SortedList`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Collections",
+      "Aquaveil[2708]": 2708,
+      "Arm's Length[1209]": 1209,
+      "Arms Up[1176]": 1176,
+      "Aspected Benefic[835]": 835,
+      "Aspected Helios[836]": 836,
+      "Aurora[1835]": 1835,
+      "Blackest Night[1178]": 1178,
+      "Bloodwhetting[2678]": 2678,
+      "Bulwark[77]": 77,
+      "Camouflage[1832]": 1832,
+      "Catalyze[1918]": 1918,
+      "Covered[81]": 81,
+      "Crest of Time Borrowed[2597]": 2597,
+      "Crest of Time Returned[2598]": 2598,
+      "Crest of Time Returned[2862]": 2862,
+      "Damnation[3832]": 3832,
+      "Dark Mind[746]": 746,
+      "Dark Missionary[1894]": 1894,
+      "Desperate Measures[2711]": 2711,
+      "Differential Diagnosis[2608]": 2608,
+      "Eudaimonia[3899]": 3899,
+      "Eukrasian Diagnosis[2607]": 2607,
+      "Eukrasian Prognosis[2609]": 2609,
+      "Exaltation[2717]": 2717,
+      "Excogitation[1220]": 1220,
+      "Galvanize[297]": 297,
+      "Great Nebula[3838]": 3838,
+      "Guardian[3829]": 3829,
+      "Haima[2612]": 2612,
+      "Haimatinon[2642]": 2642,
+      "Heart of Corundum[2683]": 2683,
+      "Heart of Light[1839]": 1839,
+      "Heart of Stone[1840]": 1840,
+      "Helios Conjunction[3894]": 3894,
+      "Holy Sheltron[2674]": 2674,
+      "Horoscope Helios[1891]": 1891,
+      "Horoscope[1890]": 1890,
+      "Intervention[1174]": 1174,
+      "Kerachole[2618]": 2618,
+      "Magick Barrier[2707]": 2707,
+      "Medica II[150]": 150,
+      "Medica III[3880]": 3880,
+      "Nascent Flash[1857]": 1857,
+      "Nascent Glint[1858]": 1858,
+      "Nascent Glint[2062]": 2062,
+      "Nebula[1834]": 1834,
+      "Oblation[2682]": 2682,
+      "Panhaima[2613]": 2613,
+      "Panhaimatinon[2643]": 2643,
+      "Passage of Arms[1175]": 1175,
+      "Rampart[1191]": 1191,
+      "Raw Intuition[735]": 735,
+      "Regen[158]": 158,
+      "Riddle of Earth[1179]": 1179,
+      "Sentinel[74]": 74,
+      "Shadow Wall[747]": 747,
+      "Shadowed Vigil[3835]": 3835,
+      "Shield Samba[1826]": 1826,
+      "Sprint[50]": 50,
+      "Surecast[160]": 160,
+      "Synastry[845]": 845,
+      "Synastry[846]": 846,
+      "Tactician[1951]": 1951,
+      "Taurochole[2619]": 2619,
+      "Temperance[1872]": 1872,
+      "Tengentsu[3853]": 3853,
+      "The Balance[3887]": 3887,
+      "The Spear[3889]": 3889,
+      "Third Eye[1232]": 1232,
+      "Thrill of Battle[87]": 87,
+      "Troubadour[1934]": 1934,
+      "Vengeance[89]": 89
+    },
+    "Enabled": true,
+    "Version": "2.6.2.1"
+  },
+  "Strata": 5,
+  "Position": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": -25.0,
+    "Y": -1.0
+  },
+  "Enabled": true,
+  "StrataLevel": 5,
+  "Version": "2.6.2.1"
+}

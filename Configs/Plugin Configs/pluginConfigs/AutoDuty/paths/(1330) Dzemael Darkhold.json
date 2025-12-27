@@ -1,0 +1,260 @@
+{
+  "Actions": [
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 16.979097,
+        "Y": 8.3953285,
+        "Z": 208.51074
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "Comment",
+      "Name": "<-- Comment -->",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": "<-- Prevents hugging the wall before reaching second crystal -->"
+    },
+    {
+      "Tag": "None",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 77.23121,
+        "Y": 4.191577,
+        "Z": 210.3302
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": 81.78937,
+        "Y": 2.067525,
+        "Z": 127.45017
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 97.995125,
+        "Y": 1.2761989,
+        "Z": 177.65997
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "true"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": 61.472412,
+        "Y": -14.258039,
+        "Z": 90.59538
+      },
+      "Arguments": [
+        ""
+      ],
+      "Conditions": [],
+      "Note": "All-seeing Eye"
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": 26.611492,
+        "Y": -13.482446,
+        "Z": 58.71247
+      },
+      "Arguments": [
+        "2000458"
+      ],
+      "Conditions": [],
+      "Note": "Magitek Transporter"
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "IsReady"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -224.82825,
+        "Y": -17.228802,
+        "Z": 10.259609
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -229.39293,
+        "Y": -22.21717,
+        "Z": 32.205605
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": -225.68459,
+        "Y": -23.137669,
+        "Z": 42.028175
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -159.75516,
+        "Y": -32.752716,
+        "Z": 44.408596
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "Treasure",
+      "Name": "TreasureCoffer",
+      "Position": {
+        "X": -140.2709,
+        "Y": -25.818148,
+        "Z": 55.947014
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": -96.21404,
+        "Y": -30.500002,
+        "Z": -30.250416
+      },
+      "Arguments": [
+        ""
+      ],
+      "Conditions": [],
+      "Note": "Taulurd"
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": -96.61875,
+        "Y": -30.442142,
+        "Z": -34.57864
+      },
+      "Arguments": [
+        "2000474"
+      ],
+      "Conditions": [],
+      "Note": "Magitek Transporter"
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "IsReady"
+      ],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -15.0631075,
+        "Y": -22.5,
+        "Z": -160.47144
+      },
+      "Arguments": [],
+      "Conditions": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": 61.328613,
+        "Y": -37.990196,
+        "Z": -154.31364
+      },
+      "Arguments": [
+        ""
+      ],
+      "Conditions": [],
+      "Note": "Batraal"
+    }
+  ],
+  "Meta": {
+    "CreatedAt": 279,
+    "Changelog": [
+      {
+        "Version": 279,
+        "Change": "Added arm 1 treasure"
+      }
+    ],
+    "Notes": []
+  }
+}

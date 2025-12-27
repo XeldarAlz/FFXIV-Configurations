@@ -1,0 +1,1265 @@
+{
+  "$type": "Avarice.Configuration.Config, Avarice",
+  "ActionEffect1Opcode": 920,
+  "Profiles": [
+    {
+      "$type": "Avarice.Configuration.Profile, Avarice",
+      "Name": "Default profile",
+      "IsDefault": true,
+      "EnableChatMessagesSuccess": false,
+      "EnableChatMessagesFailure": true,
+      "EnableVFXSuccess": false,
+      "EnableVFXFailure": true,
+      "Announce": false,
+      "Debug": false,
+      "DrawingEnabled": true,
+      "MeleeSkillAtk": 3.0,
+      "MeleeSkillIncludeHitbox": true,
+      "MeleeAutoAtk": 2.1,
+      "MeleeAutoIncludeHitbox": true,
+      "GUID": "d119d1e0-edbc-44ea-bcb4-eb71f4e717d9",
+      "EnableCurrentPie": true,
+      "CurrentPieSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 0.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.20784315,
+          "Y": 0.86274517,
+          "Z": 0.54509807,
+          "W": 0.3137255
+        },
+        "DisplayCondition": 0
+      },
+      "CurrentPieSettingsFlank": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 0.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.8117648,
+          "Y": 0.7843138,
+          "Z": 0.31764707,
+          "W": 0.3137255
+        },
+        "DisplayCondition": 0
+      },
+      "EnableAnticipatedPie": true,
+      "AnticipatedPieSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 8.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.94117653,
+          "Z": 0.09019608,
+          "W": 1.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "AnticipatedPieSettingsFlank": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 8.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.94117653,
+          "Z": 0.09019608,
+          "W": 1.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "AnticipatedDisableTrueNorth": true,
+      "EnableMaxMeleeRing": true,
+      "MaxMeleeIgnorePositionalCheck": false,
+      "MaxMeleeSettingsN": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.90196085,
+          "Y": 0.0,
+          "Z": 0.078431375,
+          "W": 0.3137255
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "MaxMeleeSettingsS": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.90196085,
+        "Y": 0.0,
+        "Z": 0.078431375,
+        "W": 0.3137255
+      },
+      "MaxMeleeSettingsE": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.90196085,
+        "Y": 0.0,
+        "Z": 0.078431375,
+        "W": 0.3137255
+      },
+      "MaxMeleeSettingsW": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.90196085,
+        "Y": 0.0,
+        "Z": 0.078431375,
+        "W": 0.3137255
+      },
+      "DrawLines": true,
+      "SameColor": true,
+      "Radius3": true,
+      "Radius2": true,
+      "HLine": false,
+      "VLine": false,
+      "EnablePlayerDot": true,
+      "PlayerDotSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "PlayerDotDisplayCondition": 0,
+      "EnablePlayerRing": false,
+      "PlayerRingSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.3137255
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "Stats": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[Avarice.Stats, Avarice]], System.Private.CoreLib",
+        "41": {
+          "$type": "Avarice.Stats, Avarice",
+          "Missed": 1,
+          "Hits": 4,
+          "Finished": false
+        }
+      },
+      "CurrentEncounterStats": {
+        "$type": "Avarice.Stats, Avarice",
+        "Missed": 1,
+        "Hits": 4,
+        "Finished": true
+      },
+      "PartyDot": false,
+      "PartyDotSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.94117653,
+          "Z": 0.078431375,
+          "W": 0.3137255
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "AllDot": false,
+      "AllDotSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.94117653,
+          "Z": 0.078431375,
+          "W": 0.3137255
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "EnableFrontSegment": true,
+      "FrontSegmentIndicator": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.83921576,
+          "Y": 0.20784315,
+          "Z": 0.20784315,
+          "W": 0.3137255
+        },
+        "DisplayCondition": 0
+      },
+      "FrontStand": false,
+      "TrickAttack": false,
+      "Meikyo": false,
+      "Reaper": 0,
+      "CompassCondition": 0,
+      "CompassEnable": false,
+      "CompassColorN": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "CompassColor": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.4,
+        "W": 1.0
+      },
+      "CompassDistance": 1.0,
+      "CompassFontScale": 1.0,
+      "CompassFont": 19,
+      "EnableTankMiddle": false,
+      "EnableDutyMiddle": false,
+      "UseRotationSolver": false
+    },
+    {
+      "$type": "Avarice.Configuration.Profile, Avarice",
+      "Name": "MELEE",
+      "IsDefault": false,
+      "EnableChatMessagesSuccess": false,
+      "EnableChatMessagesFailure": true,
+      "EnableVFXSuccess": false,
+      "EnableVFXFailure": true,
+      "Announce": false,
+      "Debug": false,
+      "DrawingEnabled": true,
+      "MeleeSkillAtk": 3.0,
+      "MeleeSkillIncludeHitbox": true,
+      "MeleeAutoAtk": 2.1,
+      "MeleeAutoIncludeHitbox": true,
+      "GUID": "20f3c424-ed1f-427b-93bf-5a099ffcf75a",
+      "EnableCurrentPie": false,
+      "CurrentPieSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 0.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 3
+      },
+      "CurrentPieSettingsFlank": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 0.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "EnableAnticipatedPie": true,
+      "AnticipatedPieSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 0.5,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.0,
+          "W": 0.43529412
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "AnticipatedPieSettingsFlank": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 0.5,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.0,
+          "W": 1.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "AnticipatedDisableTrueNorth": true,
+      "EnableMaxMeleeRing": true,
+      "MaxMeleeIgnorePositionalCheck": false,
+      "MaxMeleeSettingsN": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 0.5,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 0.43137255
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 3
+      },
+      "MaxMeleeSettingsS": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 0.43137255
+      },
+      "MaxMeleeSettingsE": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 0.43137255
+      },
+      "MaxMeleeSettingsW": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 0.43137255
+      },
+      "DrawLines": false,
+      "SameColor": false,
+      "Radius3": true,
+      "Radius2": false,
+      "HLine": false,
+      "VLine": false,
+      "EnablePlayerDot": true,
+      "PlayerDotSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 3
+      },
+      "PlayerDotDisplayCondition": 0,
+      "EnablePlayerRing": false,
+      "PlayerRingSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.3137255
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "Stats": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[Avarice.Stats, Avarice]], System.Private.CoreLib",
+        "41": {
+          "$type": "Avarice.Stats, Avarice",
+          "Missed": 561,
+          "Hits": 5374,
+          "Finished": false
+        },
+        "22": {
+          "$type": "Avarice.Stats, Avarice",
+          "Missed": 142,
+          "Hits": 1855,
+          "Finished": false
+        },
+        "30": {
+          "$type": "Avarice.Stats, Avarice",
+          "Missed": 204,
+          "Hits": 2204,
+          "Finished": false
+        },
+        "34": {
+          "$type": "Avarice.Stats, Avarice",
+          "Missed": 182,
+          "Hits": 1865,
+          "Finished": false
+        },
+        "39": {
+          "$type": "Avarice.Stats, Avarice",
+          "Missed": 214,
+          "Hits": 1613,
+          "Finished": false
+        },
+        "20": {
+          "$type": "Avarice.Stats, Avarice",
+          "Missed": 229,
+          "Hits": 3052,
+          "Finished": false
+        }
+      },
+      "CurrentEncounterStats": {
+        "$type": "Avarice.Stats, Avarice",
+        "Missed": 5,
+        "Hits": 52,
+        "Finished": true
+      },
+      "PartyDot": false,
+      "PartyDotSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.94117653,
+          "Z": 0.078431375,
+          "W": 0.3137255
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "AllDot": false,
+      "AllDotSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.94117653,
+          "Z": 0.078431375,
+          "W": 0.3137255
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "EnableFrontSegment": false,
+      "FrontSegmentIndicator": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "FrontStand": false,
+      "TrickAttack": false,
+      "Meikyo": false,
+      "Reaper": 0,
+      "CompassCondition": 4,
+      "CompassEnable": true,
+      "CompassColorN": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "CompassColor": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.4,
+        "W": 1.0
+      },
+      "CompassDistance": 0.536,
+      "CompassFontScale": 2.039,
+      "CompassFont": 21,
+      "EnableTankMiddle": false,
+      "EnableDutyMiddle": false,
+      "UseRotationSolver": true
+    },
+    {
+      "$type": "Avarice.Configuration.Profile, Avarice",
+      "Name": "RANGED",
+      "IsDefault": false,
+      "EnableChatMessagesSuccess": false,
+      "EnableChatMessagesFailure": false,
+      "EnableVFXSuccess": false,
+      "EnableVFXFailure": false,
+      "Announce": false,
+      "Debug": false,
+      "DrawingEnabled": true,
+      "MeleeSkillAtk": 3.0,
+      "MeleeSkillIncludeHitbox": true,
+      "MeleeAutoAtk": 2.1,
+      "MeleeAutoIncludeHitbox": true,
+      "GUID": "95ea1d35-45ad-4791-9550-16372cb741bf",
+      "EnableCurrentPie": false,
+      "CurrentPieSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 0.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.20784315,
+          "Y": 0.86274517,
+          "Z": 0.54509807,
+          "W": 0.3137255
+        },
+        "DisplayCondition": 0
+      },
+      "CurrentPieSettingsFlank": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 0.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.8117648,
+          "Y": 0.7843138,
+          "Z": 0.31764707,
+          "W": 0.3137255
+        },
+        "DisplayCondition": 0
+      },
+      "EnableAnticipatedPie": true,
+      "AnticipatedPieSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 8.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.94117653,
+          "Z": 0.09019608,
+          "W": 1.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "AnticipatedPieSettingsFlank": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 8.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.94117653,
+          "Z": 0.09019608,
+          "W": 1.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "AnticipatedDisableTrueNorth": true,
+      "EnableMaxMeleeRing": false,
+      "MaxMeleeIgnorePositionalCheck": false,
+      "MaxMeleeSettingsN": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.90196085,
+          "Y": 0.0,
+          "Z": 0.078431375,
+          "W": 0.3137255
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "MaxMeleeSettingsS": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.90196085,
+        "Y": 0.0,
+        "Z": 0.078431375,
+        "W": 0.3137255
+      },
+      "MaxMeleeSettingsE": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.90196085,
+        "Y": 0.0,
+        "Z": 0.078431375,
+        "W": 0.3137255
+      },
+      "MaxMeleeSettingsW": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.90196085,
+        "Y": 0.0,
+        "Z": 0.078431375,
+        "W": 0.3137255
+      },
+      "DrawLines": true,
+      "SameColor": true,
+      "Radius3": true,
+      "Radius2": true,
+      "HLine": false,
+      "VLine": false,
+      "EnablePlayerDot": true,
+      "PlayerDotSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 4
+      },
+      "PlayerDotDisplayCondition": 0,
+      "EnablePlayerRing": false,
+      "PlayerRingSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.3137255
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "Stats": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[Avarice.Stats, Avarice]], System.Private.CoreLib"
+      },
+      "CurrentEncounterStats": {
+        "$type": "Avarice.Stats, Avarice",
+        "Missed": 0,
+        "Hits": 0,
+        "Finished": true
+      },
+      "PartyDot": false,
+      "PartyDotSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.94117653,
+          "Z": 0.078431375,
+          "W": 0.3137255
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "AllDot": false,
+      "AllDotSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.94117653,
+          "Z": 0.078431375,
+          "W": 0.3137255
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "EnableFrontSegment": false,
+      "FrontSegmentIndicator": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.83921576,
+          "Y": 0.20784315,
+          "Z": 0.20784315,
+          "W": 0.3137255
+        },
+        "DisplayCondition": 0
+      },
+      "FrontStand": false,
+      "TrickAttack": false,
+      "Meikyo": false,
+      "Reaper": 0,
+      "CompassCondition": 4,
+      "CompassEnable": false,
+      "CompassColorN": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "CompassColor": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.4,
+        "W": 1.0
+      },
+      "CompassDistance": 0.386,
+      "CompassFontScale": 1.599,
+      "CompassFont": 6,
+      "EnableTankMiddle": false,
+      "EnableDutyMiddle": false,
+      "UseRotationSolver": false
+    },
+    {
+      "$type": "Avarice.Configuration.Profile, Avarice",
+      "Name": "TANK",
+      "IsDefault": false,
+      "EnableChatMessagesSuccess": false,
+      "EnableChatMessagesFailure": true,
+      "EnableVFXSuccess": false,
+      "EnableVFXFailure": false,
+      "Announce": false,
+      "Debug": false,
+      "DrawingEnabled": true,
+      "MeleeSkillAtk": 3.0,
+      "MeleeSkillIncludeHitbox": true,
+      "MeleeAutoAtk": 2.1,
+      "MeleeAutoIncludeHitbox": true,
+      "GUID": "7013e10e-d0e7-411f-9b50-5ca8e39f610c",
+      "EnableCurrentPie": false,
+      "CurrentPieSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 0.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 4
+      },
+      "CurrentPieSettingsFlank": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 0.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "EnableAnticipatedPie": true,
+      "AnticipatedPieSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 8.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.94117653,
+          "Z": 0.09019608,
+          "W": 1.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "AnticipatedPieSettingsFlank": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 8.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.94117653,
+          "Z": 0.09019608,
+          "W": 1.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "AnticipatedDisableTrueNorth": true,
+      "EnableMaxMeleeRing": true,
+      "MaxMeleeIgnorePositionalCheck": false,
+      "MaxMeleeSettingsN": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 0.1,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 0.3137255
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 4
+      },
+      "MaxMeleeSettingsS": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 0.3137255
+      },
+      "MaxMeleeSettingsE": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 0.3137255
+      },
+      "MaxMeleeSettingsW": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 0.3137255
+      },
+      "DrawLines": false,
+      "SameColor": false,
+      "Radius3": true,
+      "Radius2": false,
+      "HLine": false,
+      "VLine": false,
+      "EnablePlayerDot": true,
+      "PlayerDotSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 4
+      },
+      "PlayerDotDisplayCondition": 0,
+      "EnablePlayerRing": false,
+      "PlayerRingSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.3137255
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 3
+      },
+      "Stats": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[Avarice.Stats, Avarice]], System.Private.CoreLib"
+      },
+      "CurrentEncounterStats": {
+        "$type": "Avarice.Stats, Avarice",
+        "Missed": 0,
+        "Hits": 0,
+        "Finished": true
+      },
+      "PartyDot": false,
+      "PartyDotSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.94117653,
+          "Z": 0.078431375,
+          "W": 0.3137255
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "AllDot": false,
+      "AllDotSettings": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.94117653,
+          "Z": 0.078431375,
+          "W": 0.3137255
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "EnableFrontSegment": false,
+      "FrontSegmentIndicator": {
+        "$type": "Avarice.Drawing.Brush, Avarice",
+        "Thickness": 2.0,
+        "Color": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 0.0
+        },
+        "Fill": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 0.0
+        },
+        "DisplayCondition": 0
+      },
+      "FrontStand": false,
+      "TrickAttack": false,
+      "Meikyo": false,
+      "Reaper": 0,
+      "CompassCondition": 4,
+      "CompassEnable": true,
+      "CompassColorN": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "CompassColor": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.4,
+        "W": 1.0
+      },
+      "CompassDistance": 0.549,
+      "CompassFontScale": 1.44,
+      "CompassFont": 23,
+      "EnableTankMiddle": false,
+      "EnableDutyMiddle": false,
+      "UseRotationSolver": false
+    }
+  ],
+  "JobProfiles": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+    "20": "20f3c424-ed1f-427b-93bf-5a099ffcf75a",
+    "22": "20f3c424-ed1f-427b-93bf-5a099ffcf75a",
+    "30": "20f3c424-ed1f-427b-93bf-5a099ffcf75a",
+    "34": "20f3c424-ed1f-427b-93bf-5a099ffcf75a",
+    "39": "20f3c424-ed1f-427b-93bf-5a099ffcf75a",
+    "41": "20f3c424-ed1f-427b-93bf-5a099ffcf75a",
+    "19": "7013e10e-d0e7-411f-9b50-5ca8e39f610c",
+    "21": "7013e10e-d0e7-411f-9b50-5ca8e39f610c",
+    "32": "7013e10e-d0e7-411f-9b50-5ca8e39f610c",
+    "37": "7013e10e-d0e7-411f-9b50-5ca8e39f610c",
+    "24": "95ea1d35-45ad-4791-9550-16372cb741bf",
+    "28": "95ea1d35-45ad-4791-9550-16372cb741bf",
+    "31": "95ea1d35-45ad-4791-9550-16372cb741bf",
+    "33": "95ea1d35-45ad-4791-9550-16372cb741bf",
+    "35": "95ea1d35-45ad-4791-9550-16372cb741bf",
+    "36": "95ea1d35-45ad-4791-9550-16372cb741bf",
+    "38": "95ea1d35-45ad-4791-9550-16372cb741bf",
+    "40": "95ea1d35-45ad-4791-9550-16372cb741bf",
+    "42": "95ea1d35-45ad-4791-9550-16372cb741bf",
+    "23": "95ea1d35-45ad-4791-9550-16372cb741bf",
+    "25": "95ea1d35-45ad-4791-9550-16372cb741bf",
+    "27": "95ea1d35-45ad-4791-9550-16372cb741bf"
+  },
+  "DutyMidPixelCol": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "DutyMidRadius": 0.961,
+  "CenteredPixelColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": 1.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "UncenteredPixelColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "CenterPixelThickness": 2.0,
+  "DutyMiddleOverrides": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[System.Nullable`1[[System.Numerics.Vector3, System.Private.CoreLib]], System.Private.CoreLib]], System.Private.CoreLib"
+  },
+  "DutyMiddleExtras": [],
+  "SplatoonUnsafePixel": false,
+  "SplatoonPixelCol": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "OnlyDrawIfPositional": false,
+  "UsePictomancyRenderer": false,
+  "PictomancyMaxAlpha": 255,
+  "PictomancyClipNativeUI": true,
+  "Version": 1,
+  "VisualFeedbackSettings": {
+    "$type": "Avarice.VisualFeedbackSettings, Avarice",
+    "IconSize": 40.0,
+    "SuccessColor": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.2,
+      "Y": 0.9,
+      "Z": 0.2,
+      "W": 1.0
+    },
+    "FailureColor": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.9,
+      "Y": 0.2,
+      "Z": 0.2,
+      "W": 1.0
+    },
+    "EnableFadeOut": false,
+    "VerticalOffset": 0.0,
+    "Position": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0
+    },
+    "Size": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0
+    },
+    "ShowBackground": false,
+    "BackgroundAlpha": 0.0
+  }
+}

@@ -1,0 +1,106 @@
+﻿{
+  "AttachToPcp": true,
+  "UseRestrictedGearProtection": false,
+  "OpenFoldersByDefault": false,
+  "AutoRedrawEquipOnChanges": false,
+  "EnableAutoDesigns": false,
+  "HideApplyCheckmarks": false,
+  "SmallEquip": false,
+  "UnlockedItemMode": false,
+  "DisableFestivals": 2,
+  "EnableGameContextMenu": true,
+  "HideWindowInCutscene": false,
+  "ShowAutomationSetEditing": true,
+  "ShowAllAutomatedApplicationRules": true,
+  "ShowUnlockedItemWarnings": true,
+  "RevertManualChangesOnZoneChange": false,
+  "ShowQuickBarInTabs": true,
+  "OpenWindowAtStart": false,
+  "ShowWindowWhenUiHidden": false,
+  "KeepAdvancedDyesAttached": true,
+  "ShowPalettePlusImport": true,
+  "UseFloatForColors": true,
+  "UseRgbForColors": true,
+  "ShowColorConfig": true,
+  "ChangeEntireItem": false,
+  "AlwaysApplyAssociatedMods": true,
+  "UseTemporarySettings": true,
+  "AllowDoubleClickToApply": false,
+  "RespectManualOnAutomationUpdate": false,
+  "PreventRandomRepeats": false,
+  "PcpFolder": "PCP",
+  "PcpColor": "",
+  "HideDesignPanel": 0,
+  "AutoExpandDesignPanel": 0,
+  "DefaultDesignSettings": {
+    "AlwaysForceRedrawing": false,
+    "ResetAdvancedDyes": false,
+    "ShowQuickDesignBar": true,
+    "ResetTemporarySettings": false,
+    "Locked": false
+  },
+  "HeightDisplayType": 1,
+  "ShowRename": 4,
+  "ToggleQuickDesignBar": {
+    "Hotkey": 0,
+    "Modifier1": {
+      "Modifier": 0
+    },
+    "Modifier2": {
+      "Modifier": 0
+    }
+  },
+  "DeleteDesignModifier": {
+    "Modifier1": {
+      "Modifier": 17
+    },
+    "Modifier2": {
+      "Modifier": 16
+    }
+  },
+  "IncognitoModifier": {
+    "Modifier1": {
+      "Modifier": 17
+    },
+    "Modifier2": {
+      "Modifier": 0
+    }
+  },
+  "ChangeLogDisplayType": 0,
+  "QdbButtons": 15,
+  "Codes": [],
+  "DebugMode": false,
+  "Version": 8,
+  "Colors": {
+    "NormalDesign": 4294967295,
+    "CustomizationDesign": 4290773184,
+    "StateDesign": 4278239424,
+    "EquipmentDesign": 4278239232,
+    "ActorAvailable": 4279812120,
+    "ActorUnavailable": 4279769280,
+    "FolderExpanded": 4294963392,
+    "FolderCollapsed": 4294963392,
+    "FolderLine": 4294963392,
+    "EnabledAutoSet": 4288737440,
+    "DisabledAutoSet": 4286611584,
+    "AutomationActorAvailable": 4294967295,
+    "AutomationActorUnavailable": 4286611584,
+    "HeaderButtons": 4294963392,
+    "FavoriteStarOn": 4282437840,
+    "FavoriteStarHovered": 4291838160,
+    "FavoriteStarOff": 545292416,
+    "QuickDesignButton": 2416577034,
+    "QuickDesignFrame": 2419603512,
+    "QuickDesignBg": 15790320,
+    "TriStateCheck": 4278243328,
+    "TriStateCross": 4278190288,
+    "TriStateNeutral": 4291875024,
+    "BattleNpc": 4294967295,
+    "EventNpc": 4294967295,
+    "ModdedItemMarker": 4294910207,
+    "ContainsItemsEnabled": 4288737440,
+    "ContainsItemsDisabled": 2158031008,
+    "AdvancedDyeActive": 4284014079
+  },
+  "SortMode": "FoldersFirstT"
+}

@@ -1,0 +1,6969 @@
+{
+  "criticalHits": {
+    "Version": 1,
+    "JobConfigurations": {
+      "19": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 19
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 19
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 19
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 19
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 19
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 19
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 19
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 19
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "20": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 20
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 20
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 20
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 20
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 20
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 20
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 20
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 20
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "21": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 21
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 21
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 21
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 21
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 21
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 21
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 21
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 21
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "22": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 22
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 22
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 22
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 22
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 22
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 22
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 22
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 22
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "23": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 23
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 23
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 23
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 23
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 23
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 23
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 23
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 23
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "24": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 24
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 24
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 24
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 24
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 24
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 24
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 24
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 24
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "25": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 25
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 25
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 25
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 25
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 25
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 25
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 25
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 25
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "27": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 27
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 27
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 27
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 27
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 27
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 27
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 27
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 27
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "28": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 28
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 28
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 28
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 28
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 28
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 28
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 28
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 28
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "30": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 30
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 30
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 30
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 30
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 30
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 30
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 30
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 30
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "31": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 31
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 31
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 31
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 31
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 31
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 31
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 31
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 31
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "32": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 32
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 32
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 32
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 32
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 32
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 32
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 32
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 32
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "33": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 33
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 33
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 33
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 33
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 33
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 33
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 33
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 33
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "34": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 34
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 34
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 34
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 34
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 34
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 34
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 34
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 34
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "35": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 35
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 35
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 35
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 35
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 35
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 35
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 35
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 35
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "36": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 36
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 36
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 36
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 36
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 36
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 36
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 36
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 36
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "37": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 37
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 37
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 37
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 37
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 37
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 37
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 37
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 37
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "38": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 38
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 38
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 38
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 38
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 38
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 38
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 38
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 38
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "39": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 39
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 39
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 39
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 39
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 39
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 39
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 39
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 39
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "40": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 40
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 40
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 40
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 40
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 40
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 40
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 40
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 40
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "41": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 41
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 41
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 41
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 41
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 41
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 41
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 41
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 41
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      },
+      "42": {
+        "TimeBetweenSounds": {
+          "Value": 0
+        },
+        "ClassJobId": {
+          "Value": 42
+        },
+        "DirectCriticalDamage": {
+          "ClassJobId": {
+            "Value": 42
+          },
+          "ModuleType": {
+            "Value": 0
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "DIRECT CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "CriticalDamage": {
+          "ClassJobId": {
+            "Value": 42
+          },
+          "ModuleType": {
+            "Value": 1
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 40
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HIT!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "DirectDamage": {
+          "ClassJobId": {
+            "Value": 42
+          },
+          "ModuleType": {
+            "Value": 3
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 52
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "Mini crit!"
+          },
+          "TextColor": {
+            "Value": 0
+          },
+          "TextGlowColor": {
+            "Value": 0
+          },
+          "TextItalics": {
+            "Value": false
+          }
+        },
+        "OwnCriticalHeal": {
+          "ClassJobId": {
+            "Value": 42
+          },
+          "ModuleType": {
+            "Value": 2
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "CRITICAL HEAL!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OwnFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 42
+          },
+          "ModuleType": {
+            "Value": 5
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 46
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherCriticalHeal": {
+          "ClassJobId": {
+            "Value": 42
+          },
+          "ModuleType": {
+            "Value": 4
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK YOUR HEALER!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        },
+        "OtherFairyCriticalHeal": {
+          "ClassJobId": {
+            "Value": 42
+          },
+          "ModuleType": {
+            "Value": 6
+          },
+          "ApplyInPvP": {
+            "Value": false
+          },
+          "UseCustomFile": {
+            "Value": false
+          },
+          "SoundForActionsOnly": {
+            "Value": false
+          },
+          "GameSound": {
+            "Value": 45
+          },
+          "FilePath": {
+            "Value": ""
+          },
+          "Volume": {
+            "Value": 12
+          },
+          "ApplySfxVolume": {
+            "Value": true
+          },
+          "ShowText": {
+            "Value": true
+          },
+          "Text": {
+            "Value": "THANK THEIR FAIRY!"
+          },
+          "TextColor": {
+            "Value": 60
+          },
+          "TextGlowColor": {
+            "Value": 7
+          },
+          "TextItalics": {
+            "Value": true
+          }
+        }
+      }
+    }
+  },
+  "countdownJams": {
+    "Version": 0,
+    "modules": []
+  },
+  "Version": 2,
+  "PluginVersion": {
+    "Major": 3,
+    "Minor": 7,
+    "Patch": 2
+  }
+}

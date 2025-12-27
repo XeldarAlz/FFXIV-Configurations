@@ -1,0 +1,1073 @@
+{
+  "$type": "MOAction.Configuration.MOActionConfiguration, MOAction",
+  "CrosshairWidth": 1280,
+  "CrosshairHeight": 720,
+  "DrawCrosshair": false,
+  "CrosshairThickness": 5.0,
+  "CrosshairSize": 15.0,
+  "CrosshairInvalidColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "CrosshairValidColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 0.709,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "CrosshairCastColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.117,
+    "Y": 1.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "RangeCheck": false,
+  "Version": 6,
+  "Stacks": [
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 3594,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 3594
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 3594
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 33
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 3603,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 3603
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 3603
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 33
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 3610,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 3610
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 3610
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 33
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 3595,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 3595
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 3595
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 33
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 3614,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 3614
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 3614
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 33
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 37019,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 37019
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 37019
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 33
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 37020,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 37020
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 37020
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 33
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 37021,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 37021
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 37021
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 33
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 3612,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 3612
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 3612
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 33
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 7439,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 7439
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 33
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 16556,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 16556
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 16556
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 33
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 25873,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 25873
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 25873
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 33
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 155,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 155
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Field Mouseover",
+          "Item2": 155
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Crosshair",
+          "Item2": 155
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 155
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 25
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 7537,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "<2>",
+          "Item2": 7537
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 7537
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 32
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 7393,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 7393
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 7393
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "<2>",
+          "Item2": 7393
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 32
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 25754,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 25754
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 25754
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 32
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 25758,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 25758
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 25758
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "<2>",
+          "Item2": 25758
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 37
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 16151,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 16151
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 16151
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 37
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 25762,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 25762
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Field Mouseover",
+          "Item2": 25762
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Crosshair",
+          "Item2": 25762
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 25762
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 20
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 2262,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 2262
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Field Mouseover",
+          "Item2": 2262
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Crosshair",
+          "Item2": 2262
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 2262
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 30
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 3541,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 3541
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 3541
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 19
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 7382,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 7382
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 7382
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "<2>",
+          "Item2": 7382
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 19
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 27,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 27
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 27
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 19
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 190,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 190
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 190
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 28
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 173,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 173
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 173
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 28
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 185,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 185
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 185
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 28
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 189,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 189
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 189
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 28
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 188,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 188
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 28
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 3585,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 3585
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 3585
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 28
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 7434,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 7434
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 7434
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 28
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 7437,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 7437
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 7437
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 28
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 25867,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 25867
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 25867
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 28
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 24317,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 24317
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 24317
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 40
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 24303,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 24303
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 24303
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 40
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 24285,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 24285
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 24285
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 40
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 24305,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 24305
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 24305
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 40
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 24284,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 24284
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 24284
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 40
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 24296,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 24296
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 24296
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 40
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 24287,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 24287
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 24287
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 40
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 7571,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 7571
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Field Mouseover",
+          "Item2": 7571
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 40
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 24295,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 24295
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Field Mouseover",
+          "Item2": 24295
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Crosshair",
+          "Item2": 24295
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 24295
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 40
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 34646,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 34646
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Field Mouseover",
+          "Item2": 34646
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Crosshair",
+          "Item2": 34646
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 34646
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 41
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 16464,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 16464
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 16464
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "<2>",
+          "Item2": 16464
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 21
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 120,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 120
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 120
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 24
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 125,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 125
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 125
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 24
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 137,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 137
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 137
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 24
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 135,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 135
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 135
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 24
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 131,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 131
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 131
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 24
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 25862,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Self",
+          "Item2": 25862
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 24
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 3569,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 3569
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 24
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 3570,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 3570
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 3570
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 24
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 16531,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 16531
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 16531
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 24
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 25861,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 25861
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 25861
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 24
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 140,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 140
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 140
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 24
+    },
+    {
+      "$type": "MOAction.Configuration.ConfigurationEntry, MOAction",
+      "BaseId": 7432,
+      "Stack": [
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "UI Mouseover",
+          "Item2": 7432
+        },
+        {
+          "$type": "System.ValueTuple`2[[System.String, System.Private.CoreLib],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
+          "Item1": "Target",
+          "Item2": 7432
+        }
+      ],
+      "Modifier": 0,
+      "JobIdx": 24
+    }
+  ]
+}

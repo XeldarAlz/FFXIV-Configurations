@@ -1,0 +1,11 @@
+{
+  "$type": "DelvUI.Interface.GeneralElements.GridConfig, DelvUI",
+  "BackgroundAlpha": 0.3,
+  "ShowCenterLines": true,
+  "ShowAnchorPoints": true,
+  "ShowGrid": true,
+  "GridDivisionsDistance": 60,
+  "GridSubdivisionCount": 3,
+  "Enabled": false,
+  "Version": "2.6.2.0"
+}

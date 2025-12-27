@@ -1,0 +1,332 @@
+﻿{
+  "Version": 2,
+  "Id": "684b7b4d-b08b-475a-acc5-8788f7966c63",
+  "Name": "Default",
+  "Settings": {
+    "BB_Generic_Series": {
+      "Settings": {
+        "Season One, Part 1": 4294967295,
+        "Season One, Part 2": 268435455,
+        "Season Two, Part 1": 4294967295,
+        "Season Two, Part 2": 1073741823,
+        "Season Three, Part 1": 4294967295,
+        "Season Three, Part 2": 268435455,
+        "Season Four, Part 1": 4294967295,
+        "Season Four, Part 2": 4194303
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Classic AST skill remake[DT]=占星职业包": {
+      "Settings": {
+        "Magic/魔法": 1983,
+        "Ability/能力技": 8111,
+        "Celestial Opposition/天星冲日": 0,
+        "Lightspeed/光速": 0,
+        "Role skills/职能技能": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Classic BLM skill remake[DT]=黑魔职业包": {
+      "Settings": {
+        "Common Black Magic casting VFX/通用黑魔法读条特效": 1,
+        "Blizzard spells/冰魔法": 4095,
+        "Fire spells/火魔法": 523775,
+        "Thunder Spells/雷魔法": 1023,
+        "Unaspected Spells/无属性魔法": 1023
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Classic BRD skill remake[DT]=诗人职业包": {
+      "Settings": {
+        "Base files/基础素材": 0,
+        "Auto Attack/自动攻击": 0,
+        "Weapon skill/战技": 4294967277,
+        "Ability/能力技": 16383
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Classic DNC skill remake[SHB+EW]=舞者职业包": {
+      "Settings": {
+        "Weapon skill/战技": 8191,
+        "Ability/能力技": 15,
+        "Fan Dance II/扇舞破": 0,
+        "Fan Dance III/扇舞急": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Classic DRG skill remake[DT]=龙骑职业包": {
+      "Settings": {
+        "Base files/基础素材": 0,
+        "Icon/图标": 63,
+        "Single-target Weapon skill/单体目标战技": 536870654,
+        "AOE&Ranged Weapon Skills/范围&远程战技": 511,
+        "Ability/能力技": 1048575
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Classic DRK skill remake[DT]=黑骑职业包": {
+      "Settings": {
+        "Basic files/基础文件": 0,
+        "Weapon skills/战技": 268432383,
+        "Ability/能力技": 262143
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Classic MCH skill remake[SHB+EW]=机工职业包": {
+      "Settings": {
+        "Weapon skill/战技": 511,
+        "Heated Slug Shot/热独头弹": 0,
+        "Ability/能力技": 15,
+        "Tactician/策动": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Classic NIN skill remake[SHB+EW]=忍者职业包": {
+      "Settings": {
+        "Weapon skill/战技": 1023,
+        "Death Blossom/血雨飞花": 0,
+        "Ninjutsu/忍术": 511,
+        "Ability/能力技": 127,
+        "Replace [Mug] with [Assassinate]/替换[夺取]为[断绝]": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Classic Paladin skill remake=经典骑士职业包": {
+      "Settings": {
+        "Base files/基础文件": 0,
+        "Other files/其他文件": 0,
+        "Idle Pose/站姿": 0,
+        "Weapon skills[on/off]/战技开关": 2047,
+        "Spell[on/off]/魔法开关": 255,
+        "Abilities[on/off]/能力技开关": 16383,
+        "Screenshake switch/屏幕震动开关": 4194303,
+        "[option/选项]Goring Blade/沥血剑": 3,
+        "[option/选项]Total Eclipse/全蚀斩": 1,
+        "[option/选项]Shield Lob/投盾": 0,
+        "[option/选项]Intervene/调停": 1,
+        "[option/选项]Hallowed Ground/神圣领域": 3,
+        "[option/选项]Backward Compatible/向下兼容": 7,
+        "LimitBreak/极限技": 0,
+        "Multihit adaptation/多段伤害适配": 255
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Classic RDM skill remake[SHB+EW]=赤魔职业包": {
+      "Settings": {
+        "Magic/魔法": 16383,
+        "Weapon skill/战技": 7,
+        "Ability/能力技": 31,
+        "Multihit adaption/多段伤害适配": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Classic SCH skill remake[DT]=学者职业包": {
+      "Settings": {
+        "Broil III/死炎法": 3,
+        "Broil IV/极炎法": 3,
+        "Ruin II/毁坏": 7,
+        "Energy Drain/能力吸收": 0,
+        "Biolysis/蛊毒法": 0,
+        "Chain Stratagem/连环计": 7,
+        "Baneful Impaction/埋伏之毒": 7,
+        "Art of War/破阵法": 0,
+        "Art of War II/裂阵法": 0,
+        "Healing related/治疗相关": 127,
+        "Pet skills/召唤兽技能": 13,
+        "Seraphism related/炽天附体相关": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Classic SGE skill remake[DT]=贤者职业包": {
+      "Settings": {
+        "Skill/技能": 16515015
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Classic Summoner skill remake=经典召唤职业包": {
+      "Settings": {
+        "Basic files/基础文件": 0,
+        "Extra files/额外文件": 0,
+        "Normal Spell/常规魔法": 8191,
+        "Normal Ability/常规能力技": 32767,
+        "Ifrit Phase/火神阶段": 16383,
+        "Garuda Phase/风神阶段": 2047,
+        "Titan Phase/土神阶段": 2047,
+        "Bahamut Phase/巴哈姆特阶段": 8187,
+        "Phoenix Phase/不死鸟阶段": 1023,
+        "Solar Bahamut Phase/真阳巴哈阶段": 511,
+        "?????": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Classic WAR skill remake[SHB+EW]=战士职业包": {
+      "Settings": {
+        "Heavy Swing/重劈": 0,
+        "Maim/凶残裂": 0,
+        "Storm's Path/暴风斩": 0,
+        "Tomahawk/飞斧": 0,
+        "Weapon skills/战技": 127,
+        "Fell Cleave/裂石飞环": 0,
+        "Ability/能力技": 255,
+        "Orogeny icon/泰然自若图标": 1,
+        "Shake It Off/摆脱": 0,
+        "Multihit adaption/多段伤害适配": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Classic WHM skill remake[DT]=白魔职业包": {
+      "Settings": {
+        "Common White Magic casting VFX/通用白魔法读条特效": 1,
+        "Glare/闪耀": 2,
+        "Glare III/闪灼": 66,
+        "Glare IV/闪飒": 3,
+        "Dia/天辉": 3,
+        "Holy/神圣": 4,
+        "Holy III/豪圣": 2,
+        "Afflatus Misery/苦难之心": 3,
+        "Assize/法令": 34,
+        "Healing related/治疗相关": 7,
+        "Asylum/庇护所": 2
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "FrostUI - MaoMao DLC": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Tight&Firm-PinupCollection-Bonneville": {
+      "Settings": {
+        "Chest": 0,
+        "Shirt Pattern": 0,
+        "Legs": 1
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Tight&Firm-YorhaCollection-2B": {
+      "Settings": {
+        "2B Dress": 0,
+        "2B Goggles": 1,
+        "2B Gloves": 1,
+        "2B Tights": 1,
+        "2B Boots": 1,
+        "Fanservice: Self-Destruct": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "[7.1Temp]Classic Viper skill enhancement=蝰蛇职业包": {
+      "Settings": {
+        "Base Files/基础文件": 0,
+        "SFX Volume/音效音量": 1,
+        "Steel Fangs/咬噬尖齿": 3,
+        "Hunter's Sting/猛袭利齿": 7,
+        "Flanksting Strike/侧击獠齿": 6,
+        "Flanksbane Fang/侧裂獠齿": 6,
+        "Reaving Fangs/穿裂尖齿": 7,
+        "Swiftskin's Sting/疾速利齿": 7,
+        "Hindsting Strike/背击獠齿": 6,
+        "Hindsbane Fang/背裂獠齿": 6,
+        "Writhing Snap/飞蛇之牙": 3,
+        "Steel Maw/咬噬尖牙": 3,
+        "Hunter's Bite/猛袭利牙": 3,
+        "Jagged Maw/乱击獠牙": 3,
+        "Reaving Maw/穿裂尖牙": 3,
+        "Swiftskin's Bite/疾速利牙": 3,
+        "Bloodied Maw/乱裂獠牙": 3,
+        "Uncoiled Fury/飞蛇之尾": 3,
+        "Vicewinder/强碎灵蛇": 112,
+        "Hunter's Coil/猛袭盘蛇": 14,
+        "Swiftskin's Coil/疾速盘蛇": 14,
+        "Vicepit/强碎灵蝰": 14,
+        "Hunter's Den/猛袭盘蝰": 14,
+        "Swiftskin's Den/疾速盘蝰": 6,
+        "Icon only skill/仅图标技能": 7,
+        "Twinfang Bite/双牙连击": 14,
+        "Twinblood Bite/双牙乱击": 14,
+        "Twinfang Thresh/双牙连闪": 14,
+        "Twinblood Thresh/双牙乱闪": 14,
+        "Uncoiled Twinfang/飞蛇连尾击": 6,
+        "Uncoiled Twinblood/飞蛇乱尾击": 2,
+        "Death Rattle/蛇尾击": 6,
+        "Last Lash/蛇尾闪": 14,
+        "Reawaken/祖灵降临": 60,
+        "Generation/祖灵之牙": 16236000,
+        "Legacy/祖灵之蛇": 16236000,
+        "Ouroboros/祖灵大蛇牙": 30,
+        "[Move Action] Slither/蛇行": 3,
+        "[PVPLB]Backlash/蛇鳞击": 1,
+        "[PVP-LB]World-swallower/吞天巨蛇": 6
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[DMC]Full patch of Vergil[SAM]": {
+      "Settings": {
+        "Base Package=基础包": 0,
+        "JobHud=职业量谱": 1,
+        "Single-target combo=单体目标战技": 127,
+        "AOE combo=范围攻击战技": 15,
+        "Laijutsu related=居合术相关": 127,
+        "Hissatsu ability=必杀剑能力": 255,
+        "Other ability=其他能力技": 127,
+        "Screenquake of Shoha/照破屏幕震动": 1,
+        "PVP related=PVP相关": 15,
+        "PVP LB=Judgement cut end": 5,
+        "LimitBreak III=极限技III": 1,
+        "Emotes=情感动作": 1,
+        "Multihit Adaptation=多段适配": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Trial]Alter Summoner_Cyber_Developer": {
+      "Settings": {
+        "Trial skills": 15
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Trial]Nero theme Job remake [GNB]": {
+      "Settings": {
+        "Weapon position/武器位置文件": 1,
+        "Default Idle Pose/站姿": 0,
+        "Keen Edge/利刃斩": 0,
+        "Brutal Shell/残暴弹": 0,
+        "Solid Barrel/迅连斩": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "[Trial]Sin-Vergil theme Job remake[SAM]": {
+      "Settings": {
+        "Base files/基础文件": 1,
+        "General settings/通用设置": 15,
+        "Sub animation/附加动画": 0,
+        "Move animation/移动动画": 1,
+        "Weapon skill/战技": 63,
+        "Damage ability/伤害型能力技": 7
+      },
+      "Priority": 0,
+      "Enabled": false
+    }
+  },
+  "Inheritance": []
+}

@@ -1,0 +1,69 @@
+{
+  "Actions": [
+    {
+      "Tag": "Unsynced",
+      "Name": "BossMod",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "off"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": 0.67,
+        "Y": 0.0,
+        "Z": 5.58
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Unsynced",
+      "Name": "BossMod",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "on"
+      ],
+      "Note": ""
+    }
+  ],
+  "Meta": {
+    "CreatedAt": 106,
+    "Changelog": [
+      {
+        "Version": 161,
+        "Change": "Converted to new JSON Structure"
+      },
+      {
+        "Version": 163,
+        "Change": "Converted to newer JSON Structure"
+      },
+      {
+        "Version": 164,
+        "Change": "Converted to JSON Structure with Tags"
+      },
+      {
+        "Version": 189,
+        "Change": "Adjusted tags to string values"
+      },
+      {
+        "Version": 251,
+        "Change": "Stopped dodging because of lack of module"
+      }
+    ],
+    "Notes": []
+  }
+}

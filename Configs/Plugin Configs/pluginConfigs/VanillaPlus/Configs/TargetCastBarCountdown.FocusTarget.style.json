@@ -1,0 +1,63 @@
+{
+  "TextColor": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "TextOutlineColor": {
+    "X": 0.5568628,
+    "Y": 0.41568628,
+    "Z": 0.047058824,
+    "W": 1.0
+  },
+  "BackgroundColor": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 0.0
+  },
+  "AlignmentType": 5,
+  "FontType": 2,
+  "TextFlags": 8,
+  "FontSize": 20,
+  "LineSpacing": 0,
+  "CharSpacing": 0,
+  "String": "",
+  "TooltipString": "",
+  "Margin": {
+    "Top": 0.0,
+    "Left": 0.0,
+    "Right": 0.0,
+    "Bottom": 0.0
+  },
+  "Position": {
+    "X": 0.0,
+    "Y": -16.0
+  },
+  "Size": {
+    "X": 82.0,
+    "Y": 22.0
+  },
+  "Scale": {
+    "X": 1.0,
+    "Y": 1.0
+  },
+  "IsVisible": true,
+  "Color": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "AddColor": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0
+  },
+  "MultiplyColor": {
+    "X": 0.39215687,
+    "Y": 0.39215687,
+    "Z": 0.39215687
+  }
+}

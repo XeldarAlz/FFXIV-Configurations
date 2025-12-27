@@ -1,0 +1,83 @@
+{
+  "$type": "SimpleTweaksPlugin.SimpleTweaksPluginConfig, SimpleTweaksPlugin",
+  "Debugging": {
+    "$type": "SimpleTweaksPlugin.Debugging.DebugConfig, SimpleTweaksPlugin",
+    "SelectedPage": "",
+    "SavedValues": {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Object, System.Private.CoreLib]], System.Private.CoreLib"
+    },
+    "Undocked": [],
+    "SelectedAtkUnitBase": 0,
+    "AtkUnitBaseSearch": ""
+  },
+  "EnabledTweaks": [
+    "DataCentreOnTitleScreen",
+    "UiAdjustments@AccurateVentureTimes",
+    "UiAdjustments@AddNumberSeparators",
+    "UiAdjustments@AlwaysYes",
+    "UiAdjustments@ImprovedWorldVisit",
+    "UiAdjustments@MinimapAdjustments",
+    "UiAdjustments@TargetHP",
+    "UiAdjustments@ShowShieldOnHPBar",
+    "UiAdjustments@ParameterBarAdjustments",
+    "ChatTweaks@ExpGainLevelPercent",
+    "UiAdjustments@HideExperienceBar",
+    "TooltipTweaks@FoodStats",
+    "TooltipTweaks@MateriaStats",
+    "TooltipTweaks@PrecisionDurability",
+    "TooltipTweaks@PrecisionSpiritbond",
+    "TooltipTweaks@DesynthesisSkill",
+    "UiAdjustments@ComboTimer",
+    "UiAdjustments@ExtendedDesynthesisWindow",
+    "UiAdjustments@LootWindowDuplicateUniqueItemIndicator",
+    "UiAdjustments@ExpandedCurrencyDisplay",
+    "UiAdjustments@ExpPercentage",
+    "UiAdjustments@ExamineItemLevel"
+  ],
+  "HiddenTweaks": [],
+  "CustomTweakProviders": [],
+  "BlacklistedTweaks": [
+    "UiAdjustments@ExtendedDesynthesisWindow",
+    "UiAdjustments@ActionPressMirroring",
+    "UiAdjustments@ControlHintMirroring",
+    "UiAdjustments@StopCraftingButton::2",
+    "UiAdjustments@FadeUnavailableActions",
+    "UiAdjustments@LockWindowPosition",
+    "UiAdjustments@SubmarineDestinationLetters"
+  ],
+  "HiddenCategories": [],
+  "CustomizedCommands": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib"
+  },
+  "DisabledCommandAlias": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib]], System.Private.CoreLib"
+  },
+  "HideKofi": false,
+  "ShowExperimentalTweaks": false,
+  "DisableAutoOpen": null,
+  "DisableAutoOpenConfig": false,
+  "DisableAutoOpenDebug": false,
+  "ShowInDevMenu": false,
+  "NoFools": false,
+  "NotBaby": false,
+  "AnalyticsOptOut": true,
+  "ShowAllTweaksTab": true,
+  "ShowEnabledTweaksTab": true,
+  "ShowOtherTweaksTab": true,
+  "NoCallerInLog": false,
+  "UseFuzzyTweakSearch": true,
+  "ShowTweakDescriptions": true,
+  "ShowTweakIDs": false,
+  "CustomCulture": "",
+  "Language": "en",
+  "LanguageListUpdate": "0001-01-01T00:00:00",
+  "LanguageUpdates": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.DateTime, System.Private.CoreLib]], System.Private.CoreLib"
+  },
+  "LastSeenChangelog": "",
+  "AutoOpenChangelog": false,
+  "DisableChangelogNotification": false,
+  "MetricsIdentifier": null,
+  "FestiveDecorationType": -2,
+  "Version": 3
+}

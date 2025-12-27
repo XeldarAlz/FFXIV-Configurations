@@ -1,0 +1,124 @@
+{
+  "Actions": [
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": -38.98,
+        "Y": 114.71,
+        "Z": -4.16
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": -40.24,
+        "Y": 114.71,
+        "Z": 3.47
+      },
+      "Arguments": [
+        "2007455"
+      ],
+      "Note": "Cranial Hatch"
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": -40.24,
+        "Y": 114.71,
+        "Z": 3.47
+      },
+      "Arguments": [
+        "2007456"
+      ],
+      "Note": "Ingress"
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "IsReady"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "IsReady"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 0.041660503,
+        "Y": -250.29001,
+        "Z": -239.65451
+      },
+      "Arguments": [],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": 0.04,
+        "Y": -250.29,
+        "Z": -239.65
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "IsReady"
+      ],
+      "Note": ""
+    }
+  ],
+  "Meta": {
+    "CreatedAt": 173,
+    "Changelog": [
+      {
+        "Version": 173,
+        "Change": "kuku"
+      },
+      {
+        "Version": 189,
+        "Change": "Adjusted tags to string values"
+      },
+      {
+        "Version": 231,
+        "Change": "Added IsReady checks"
+      }
+    ],
+    "Notes": []
+  }
+}

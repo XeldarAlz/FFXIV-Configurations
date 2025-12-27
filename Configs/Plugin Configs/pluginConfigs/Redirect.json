@@ -1,0 +1,122 @@
+{
+  "$type": "Redirect.Configuration, Redirect",
+  "Version": 1,
+  "DefaultMouseoverFriendly": false,
+  "DefaultModelMouseoverFriendly": false,
+  "DefaultMouseoverHostile": false,
+  "DefaultModelMouseoverHostile": false,
+  "DefaultMouseoverGround": false,
+  "DefaultCursorMouseover": false,
+  "EnableMacroQueueing": false,
+  "QueueGroundActions": false,
+  "IgnoreErrors": true,
+  "DefaultRedirection": "UI Mouseover",
+  "Redirections": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[Redirect.Redirection, Redirect]], System.Private.CoreLib",
+    "7571": {
+      "$type": "Redirect.Redirection, Redirect",
+      "ID": 7571,
+      "Priority": [
+        "Model Mouseover",
+        "UI Mouseover"
+      ]
+    },
+    "34646": {
+      "$type": "Redirect.Redirection, Redirect",
+      "ID": 34646,
+      "Priority": [
+        "Model Mouseover",
+        "UI Mouseover"
+      ]
+    },
+    "24295": {
+      "$type": "Redirect.Redirection, Redirect",
+      "ID": 24295,
+      "Priority": [
+        "Model Mouseover",
+        "UI Mouseover"
+      ]
+    },
+    "7537": {
+      "$type": "Redirect.Redirection, Redirect",
+      "ID": 7537,
+      "Priority": [
+        "<2>",
+        "UI Mouseover",
+        "Model Mouseover"
+      ]
+    },
+    "7393": {
+      "$type": "Redirect.Redirection, Redirect",
+      "ID": 7393,
+      "Priority": [
+        "Model Mouseover",
+        "UI Mouseover"
+      ]
+    },
+    "25754": {
+      "$type": "Redirect.Redirection, Redirect",
+      "ID": 25754,
+      "Priority": [
+        "Model Mouseover",
+        "UI Mouseover"
+      ]
+    },
+    "27": {
+      "$type": "Redirect.Redirection, Redirect",
+      "ID": 27,
+      "Priority": [
+        "Model Mouseover",
+        "UI Mouseover"
+      ]
+    },
+    "3541": {
+      "$type": "Redirect.Redirection, Redirect",
+      "ID": 3541,
+      "Priority": [
+        "Model Mouseover",
+        "UI Mouseover"
+      ]
+    },
+    "7382": {
+      "$type": "Redirect.Redirection, Redirect",
+      "ID": 7382,
+      "Priority": [
+        "Model Mouseover",
+        "UI Mouseover"
+      ]
+    },
+    "16464": {
+      "$type": "Redirect.Redirection, Redirect",
+      "ID": 16464,
+      "Priority": [
+        "Model Mouseover",
+        "UI Mouseover"
+      ]
+    },
+    "155": {
+      "$type": "Redirect.Redirection, Redirect",
+      "ID": 155,
+      "Priority": [
+        "Model Mouseover",
+        "UI Mouseover"
+      ]
+    },
+    "16151": {
+      "$type": "Redirect.Redirection, Redirect",
+      "ID": 16151,
+      "Priority": [
+        "Model Mouseover",
+        "UI Mouseover"
+      ]
+    },
+    "25758": {
+      "$type": "Redirect.Redirection, Redirect",
+      "ID": 25758,
+      "Priority": [
+        "Model Mouseover",
+        "UI Mouseover"
+      ]
+    }
+  }
+}

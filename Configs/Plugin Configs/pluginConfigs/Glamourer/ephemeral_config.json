@@ -1,0 +1,15 @@
+﻿{
+  "Version": 8,
+  "IncognitoMode": false,
+  "UnlockDetailMode": true,
+  "ShowDesignQuickBar": false,
+  "LockDesignQuickBar": false,
+  "LockMainWindow": false,
+  "SelectedTab": 2,
+  "SelectedDesign": "00000000-0000-0000-0000-000000000000",
+  "SelectedQuickDesign": "00000000-0000-0000-0000-000000000000",
+  "LastSeenVersion": 32,
+  "CurrentDesignSelectorWidth": 200.0,
+  "DesignSelectorMinimumScale": 0.1,
+  "DesignSelectorMaximumScale": 0.5
+}

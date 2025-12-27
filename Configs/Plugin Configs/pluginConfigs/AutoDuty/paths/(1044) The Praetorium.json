@@ -1,0 +1,605 @@
+{
+  "Actions": [
+    {
+      "Tag": "None",
+      "Name": "BLULoad",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "false",
+        "92"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": 196.44,
+        "Y": 186.0,
+        "Z": -5.37
+      },
+      "Arguments": [
+        "2012811"
+      ],
+      "Note": "Magitek Terminal"
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 226.77,
+        "Y": 156.0,
+        "Z": 1.32
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 233.83916,
+        "Y": 156.0,
+        "Z": -30.059208
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "ConditionAction",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "Job;Blue_Mage",
+        "Rotation;off"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "BLULoad",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "true",
+        "92"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "ConditionAction",
+      "Position": {
+        "X": 175.41466,
+        "Y": 154.67581,
+        "Z": -68.05216
+      },
+      "Arguments": [
+        "ActionStatus;Action;23282;573",
+        "Wait;2500"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "ConditionAction",
+      "Position": {
+        "X": 181.5,
+        "Y": 154.1,
+        "Z": -72.2
+      },
+      "Arguments": [
+        "Job;Blue_Mage",
+        "Action;Action;7559"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "IsReady"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "ConditionAction",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "Job;Blue_Mage",
+        "Action;Action;23282"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "ConditionFlag;Casting;false"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "ConditionAction",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "Job;Blue_Mage",
+        "Action;Action;11419"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "ConditionFlag;Casting;false"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "IsReady"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "ConditionAction",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "Job;Blue_Mage",
+        "Action;Action;23277"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "ConditionFlag;Casting;false"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "ConditionAction",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "Job;Blue_Mage",
+        "Rotation;on"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "W2W",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 170.68636,
+        "Y": 154.77454,
+        "Z": -66.33374
+      },
+      "Arguments": [
+        "true"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": 172.81,
+        "Y": 156.0,
+        "Z": -25.49
+      },
+      "Arguments": [
+        "2012813"
+      ],
+      "Note": "Magitek Transporter"
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": 191.97,
+        "Y": 76.0,
+        "Z": 0.02
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": 174.78,
+        "Y": 76.0,
+        "Z": 3.76
+      },
+      "Arguments": [
+        "2012815"
+      ],
+      "Note": "Magitek Terminal"
+    },
+    {
+      "Tag": "None",
+      "Name": "DutySpecificCode",
+      "Position": {
+        "X": 174.68,
+        "Y": 102.0,
+        "Z": -66.46
+      },
+      "Arguments": [
+        "1"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 241.73,
+        "Y": 66.38,
+        "Z": 86.07
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 226.73793,
+        "Y": 60.99994,
+        "Z": 60.57332
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 83.667145,
+        "Y": -107.98585,
+        "Z": -30.997816
+      },
+      "Arguments": [
+        "500"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 84.45,
+        "Y": -107.89,
+        "Z": -72.12
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 51.0,
+        "Y": -107.99,
+        "Z": -72.18
+      },
+      "Arguments": [
+        "500"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": -24.32,
+        "Y": -104.0,
+        "Z": 0.08
+      },
+      "Arguments": [
+        "500"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": -24.32,
+        "Y": -104.0,
+        "Z": 0.08
+      },
+      "Arguments": [
+        "500"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": -24.32,
+        "Y": -104.0,
+        "Z": 0.08
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": -60.12,
+        "Y": -103.94,
+        "Z": 0.06
+      },
+      "Arguments": [
+        "500"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "StopForCombat",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "true"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "1"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "WaitFor",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "IsReady"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "10"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -83.86,
+        "Y": -103.94,
+        "Z": -0.08
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "DutySpecificCode",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "2"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": -164.13,
+        "Y": -104.4,
+        "Z": -0.09
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -202.18,
+        "Y": -103.91,
+        "Z": -0.61
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": -210.61,
+        "Y": -103.99,
+        "Z": -0.63
+      },
+      "Arguments": [
+        "false"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": -238.41,
+        "Y": -104.0,
+        "Z": -19.2
+      },
+      "Arguments": [
+        "2012817"
+      ],
+      "Note": "Magitek Terminal"
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": -566.27,
+        "Y": -268.0,
+        "Z": 219.83
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": "Gaius van Baelsar"
+    }
+  ],
+  "Meta": {
+    "CreatedAt": 269,
+    "Changelog": [
+      {
+        "Version": 114,
+        "Change": "Added ForceAttack for Cermet Door as fallback (No DutySpecCode) and Added a Wait and MoveTo before final boss to prevent leaving early."
+      },
+      {
+        "Version": 135,
+        "Change": "Added Duty Specific Code for Magitek stage"
+      },
+      {
+        "Version": 161,
+        "Change": "Converted to new JSON Structure"
+      },
+      {
+        "Version": 163,
+        "Change": "Converted to newer JSON Structure"
+      },
+      {
+        "Version": 164,
+        "Change": "Converted to JSON Structure with Tags"
+      },
+      {
+        "Version": 189,
+        "Change": "Adjusted tags to string values"
+      },
+      {
+        "Version": 241,
+        "Change": "Wait before b2 adjusted"
+      },
+      {
+        "Version": 246,
+        "Change": "Replaced old automove instruction"
+      },
+      {
+        "Version": 262,
+        "Change": "Added W2W and replaced mech arms WaitFor Combat with simple Waits"
+      },
+      {
+        "Version": 269,
+        "Change": "Adjusting Wait W2W steps"
+      }
+    ],
+    "Notes": []
+  }
+}

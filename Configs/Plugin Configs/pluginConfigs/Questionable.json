@@ -1,0 +1,96 @@
+{
+  "$type": "Questionable.Configuration, Questionable",
+  "Version": 1,
+  "PluginSetupCompleteVersion": 5,
+  "General": {
+    "$type": "Questionable.Configuration+GeneralConfiguration, Questionable",
+    "CombatModule": 3,
+    "MountId": 186,
+    "GrandCompany": 3,
+    "CombatJob": 0,
+    "CraftingJob": 8,
+    "GatheringJob": 16,
+    "HideInAllInstances": true,
+    "UseEscToCancelQuesting": true,
+    "ShowIncompleteSeasonalEvents": true,
+    "SkipLowPriorityDuties": true,
+    "ConfigureTextAdvance": true,
+    "AutoStepRefreshEnabled": false,
+    "AutoStepRefreshDelaySeconds": 30,
+    "UseTickets": false,
+    "HideSponsorButton": false
+  },
+  "Stop": {
+    "$type": "Questionable.Configuration+StopConfiguration, Questionable",
+    "Enabled": false,
+    "QuestsToStopAfter": [],
+    "LevelToStopAfter": false,
+    "TargetLevel": 50
+  },
+  "Duties": {
+    "$type": "Questionable.Configuration+DutyConfiguration, Questionable",
+    "RunInstancedContentWithAutoDuty": true,
+    "WhitelistedDutyCfcIds": [],
+    "BlacklistedDutyCfcIds": [],
+    "ExpansionHeaderStates": {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+      "ARealmReborn": false,
+      "Heavensward": false,
+      "Stormblood": false,
+      "Shadowbringers": false,
+      "Endwalker": false
+    }
+  },
+  "SinglePlayerDuties": {
+    "$type": "Questionable.Configuration+SinglePlayerDutyConfiguration, Questionable",
+    "RunSoloInstancesWithBossMod": true,
+    "RetryDifficulty": 0,
+    "WhitelistedSinglePlayerDutyCfcIds": [],
+    "BlacklistedSinglePlayerDutyCfcIds": [],
+    "HeaderStates": {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib"
+    }
+  },
+  "Notifications": {
+    "$type": "Questionable.Configuration+NotificationConfiguration, Questionable",
+    "Enabled": true,
+    "ChatType": 1,
+    "ShowTrayMessage": false,
+    "FlashTaskbar": false
+  },
+  "Advanced": {
+    "$type": "Questionable.Configuration+AdvancedConfiguration, Questionable",
+    "DebugOverlay": false,
+    "CombatDataOverlay": false,
+    "HighlightSelectedNpc": true,
+    "HighlightColor": 4,
+    "NeverFly": false,
+    "AdditionalStatusInformation": false,
+    "ShowTracked": false,
+    "ShowDailies": false,
+    "ShowDirector": false,
+    "ShowActionManager": false,
+    "ShowNewGamePlus": false,
+    "DisableAutoDutyBareMode": false,
+    "SkipAetherCurrents": false,
+    "SkipClassJobQuests": false,
+    "SkipARealmRebornHardModePrimals": false,
+    "SkipCrystalTowerRaids": false,
+    "PreventQuestCompletion": false,
+    "ShowWindowOnStart": false,
+    "StartMinimized": false,
+    "OpenEditor": false
+  },
+  "DebugWindowConfig": {
+    "$type": "LLib.ImGui.WindowConfig, LLib",
+    "IsPinned": false,
+    "IsClickthrough": false,
+    "Alpha": null
+  },
+  "ConfigWindowConfig": {
+    "$type": "LLib.ImGui.WindowConfig, LLib",
+    "IsPinned": false,
+    "IsClickthrough": false,
+    "Alpha": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "EnabledModifications": [
+    "TargetCastBarCountdown",
+    "MissingJobStoneLockout",
+    "CastBarAetheryteNames",
+    "DutyTimer",
+    "DutyLootPreview",
+    "EnhancedLootWindow",
+    "WondrousTailsProbabilities"
+  ]
+}

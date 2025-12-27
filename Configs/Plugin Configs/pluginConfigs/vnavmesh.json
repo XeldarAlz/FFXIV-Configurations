@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Payload": {
+    "AutoLoadNavmesh": true,
+    "EnableDTR": true,
+    "ShowQueryStatusInDTR": true,
+    "AlignCameraToMovement": false,
+    "AlignCameraHeight": -15.0,
+    "ShowWaypoints": false,
+    "ForceShowGameCollision": false,
+    "CancelMoveOnUserInput": true,
+    "StopOnStuck": false,
+    "StuckTolerance": 0.05,
+    "StuckTimeoutMs": 500,
+    "RetryOnStuck": true,
+    "RandomnessMultiplier": 1.0,
+    "BuildMaxCores": 1
+  }
+}

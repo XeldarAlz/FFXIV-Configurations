@@ -1,0 +1,24 @@
+{
+  "$type": "Malmstone.Configuration, Malmstone",
+  "Version": 0,
+  "DefaultTargetRankProperty": 1,
+  "PostmatchProgressionToastType": 0,
+  "ShowProgressionToastPostMatch": true,
+  "ShowProgressionChatPostRW": true,
+  "ShowProgressionChatPostCC": true,
+  "ShowProgressionChatPostFL": true,
+  "ShowMainWindowOnPVPReward": true,
+  "SkipProgressionToastAfterGoal": false,
+  "SkipProgressionChatAfterGoal": false,
+  "TrackFrontlineBonus": true,
+  "SavedFrontlineRewardBonus": 20,
+  "OutdatedFrontlineRewardBonus": true,
+  "IsPrimedForBuff": false,
+  "OverrideShowMatchesToDefaultTargetGoal": false,
+  "ExtraLevelsMap": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.UInt64, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+    "18014598547735992": 0
+  },
+  "ShowTrueSeriesLevelPVPReward": true,
+  "ShowTrueSeriesLevelPVPProfile": true
+}

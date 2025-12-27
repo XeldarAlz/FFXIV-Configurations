@@ -1,0 +1,50 @@
+{
+  "$type": "Saucy.Configuration, Saucy",
+  "EnableAutoMiniCactpot": true,
+  "Version": 0,
+  "UseRecommendedDeck": true,
+  "SelectedDeckIndex": -1,
+  "Stats": {
+    "$type": "Saucy.Stats, Saucy",
+    "GamesPlayedWithSaucy": 362,
+    "GamesWonWithSaucy": 336,
+    "GamesLostWithSaucy": 18,
+    "GamesDrawnWithSaucy": 8,
+    "CardsDroppedWithSaucy": 165,
+    "MGPWon": 31643,
+    "NPCsPlayed": {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+      "Klynthota": 359,
+      "Larisa": 3
+    },
+    "CardsWon": {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+      "140": 27,
+      "132": 63,
+      "150": 37,
+      "135": 37,
+      "412": 1
+    },
+    "CuffMGP": 55,
+    "CuffBrutals": 1,
+    "CuffPunishings": 2,
+    "CuffBruisings": 0,
+    "CuffGamesPlayed": 3,
+    "LimbMGP": 2395,
+    "LimbGamesPlayed": 9
+  },
+  "PlaySound": false,
+  "SelectedSound": "Moogle",
+  "OnlyUnobtainedCards": true,
+  "OpenAutomatically": true,
+  "SliceIsRightModuleEnabled": false,
+  "LimbConfig": {
+    "$type": "Saucy.OutOnALimb.LimbConfig, Saucy",
+    "EnableLimb": false,
+    "Tolerance": 2,
+    "Step": 10,
+    "StopAt": 18,
+    "HardStopAt": 12,
+    "LimbDifficulty": 0
+  }
+}

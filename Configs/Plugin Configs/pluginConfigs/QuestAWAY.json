@@ -1,0 +1,18 @@
+{
+  "$type": "QuestAWAY.Configuration, QuestAWAY",
+  "Enabled": false,
+  "Minimap": true,
+  "Bigmap": true,
+  "QuickEnable": true,
+  "HiddenTextures": [
+    "ui/icon/071000/071021"
+  ],
+  "CustomPathes": "",
+  "HideFateCircles": false,
+  "HideAreaMarkers": false,
+  "AetheryteInFront": false,
+  "ZoneSettings": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[QuestAWAY.Configuration, QuestAWAY]], System.Private.CoreLib"
+  },
+  "Version": 1
+}

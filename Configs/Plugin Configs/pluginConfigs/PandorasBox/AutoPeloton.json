@@ -1,0 +1,7 @@
+{
+  "ThrottleF": 0.1,
+  "OnlyInDuty": false,
+  "RPWalk": false,
+  "ExcludeHousing": false,
+  "AbortCooldown": false
+}

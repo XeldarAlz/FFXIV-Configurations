@@ -1,0 +1,20 @@
+﻿{
+  "Version": 2,
+  "Default": "00000000-0000-0000-0000-000000000000",
+  "Interface": "3c7eea69-0fe2-40a9-b143-53bb3afe8846",
+  "Current": "684b7b4d-b08b-475a-acc5-8788f7966c63",
+  "Yourself": "00000000-0000-0000-0000-000000000000",
+  "MalePlayerCharacter": "00000000-0000-0000-0000-000000000000",
+  "FemalePlayerCharacter": "00000000-0000-0000-0000-000000000000",
+  "MaleNonPlayerCharacter": "00000000-0000-0000-0000-000000000000",
+  "FemaleNonPlayerCharacter": "00000000-0000-0000-0000-000000000000",
+  "Individuals": [
+    {
+      "Type": "Player",
+      "PlayerName": "Xeldar Al",
+      "HomeWorld": 403,
+      "Collection": "684b7b4d-b08b-475a-acc5-8788f7966c63",
+      "Display": "Xeldar Al (Raiden)"
+    }
+  ]
+}

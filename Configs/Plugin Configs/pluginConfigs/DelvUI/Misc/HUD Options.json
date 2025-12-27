@@ -1,0 +1,21 @@
+{
+  "$type": "DelvUI.Interface.GeneralElements.HUDOptionsConfig, DelvUI",
+  "UseGlobalHudShift": true,
+  "HudOffset": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": 0.0
+  },
+  "DimConfigWindow": true,
+  "AutomaticPreviewDisabling": true,
+  "OverrideDalamudStyle": true,
+  "MouseoverEnabled": true,
+  "MouseoverAutomaticMode": true,
+  "InputsProxyEnabled": false,
+  "HideDefaultJobGauges": true,
+  "HideDefaultCastbar": true,
+  "HideDefaultPulltimer": true,
+  "UseRegionalNumberFormats": true,
+  "Enabled": true,
+  "Version": "2.6.2.1"
+}

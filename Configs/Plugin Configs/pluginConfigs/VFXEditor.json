@@ -1,0 +1,2222 @@
+{
+  "$type": "VfxEditor.Configuration, VFXEditor",
+  "LogAllFiles": false,
+  "LogDebug": false,
+  "LogVfxDebug": false,
+  "LogVfxTriggers": false,
+  "AutosaveEnabled": false,
+  "AutosaveSeconds": 300,
+  "SaveRecentLimit": 100,
+  "AutosaveBackups": true,
+  "BackupCount": 20,
+  "LockMainWindows": false,
+  "HideWithUI": true,
+  "ShowTabBar": true,
+  "DocumentPopoutShowSource": false,
+  "UseDegreesForAngles": true,
+  "SelectDialogLogOpen": true,
+  "SelectDialogIconsOnLeft": true,
+  "OverlayLimit": true,
+  "OverlayRemoveDelay": 1.0,
+  "BlockGameInputsWhenFocused": false,
+  "WriteLocation": "C:\\Users\\xelda\\AppData\\Roaming\\XIVLauncher\\pluginConfigs\\VFXEditor",
+  "DefaultAuthor": "",
+  "RecentWorkspaces": [],
+  "VfxSpawnLoop": false,
+  "VfxSpawnDelay": 0.1,
+  "ManagerConfigs": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[VfxEditor.ManagerConfiguration, VFXEditor]], System.Private.CoreLib",
+    "Tex": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.51
+      }
+    },
+    "Tmb": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.51
+      }
+    },
+    "Vfx": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.51
+      }
+    },
+    "Pap": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.51
+      }
+    },
+    "Scd": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.51
+      }
+    },
+    "Eid": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      }
+    },
+    "Uld": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.51
+      }
+    },
+    "Phyb": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.51
+      }
+    },
+    "Sklb": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.51
+      }
+    },
+    "Atch": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.51
+      }
+    },
+    "Skp": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.51
+      }
+    },
+    "Shpk": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.51
+      }
+    },
+    "Shcd": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.51
+      }
+    },
+    "Mtrl": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.51
+      }
+    },
+    "Mdl": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.51
+      }
+    },
+    "Kdb": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.51
+      }
+    },
+    "Pbd": {
+      "$type": "VfxEditor.ManagerConfiguration, VFXEditor",
+      "RecentItems": [],
+      "Favorites": [],
+      "UseCustomWindowColor": false,
+      "TitleBg": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.022624433,
+        "Y": 0.022624206,
+        "Z": 0.022624206,
+        "W": 0.85067874
+      },
+      "TitleBgActive": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.38914025,
+        "Y": 0.10917056,
+        "Z": 0.10917056,
+        "W": 0.8280543
+      },
+      "TitleBgCollapsed": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.51
+      }
+    }
+  },
+  "SaveKeybind": {
+    "$type": "VfxEditor.KeybindConfiguration, VFXEditor",
+    "Modifier": 1,
+    "Key": 29
+  },
+  "SaveAsKeybind": {
+    "$type": "VfxEditor.KeybindConfiguration, VFXEditor",
+    "Modifier": 1,
+    "Key": 29
+  },
+  "OpenKeybind": {
+    "$type": "VfxEditor.KeybindConfiguration, VFXEditor",
+    "Modifier": 1,
+    "Key": 29
+  },
+  "UpdateKeybind": {
+    "$type": "VfxEditor.KeybindConfiguration, VFXEditor",
+    "Modifier": 1,
+    "Key": 29
+  },
+  "CopyKeybind": {
+    "$type": "VfxEditor.KeybindConfiguration, VFXEditor",
+    "Modifier": 1,
+    "Key": 29
+  },
+  "PasteKeybind": {
+    "$type": "VfxEditor.KeybindConfiguration, VFXEditor",
+    "Modifier": 1,
+    "Key": 29
+  },
+  "UndoKeybind": {
+    "$type": "VfxEditor.KeybindConfiguration, VFXEditor",
+    "Modifier": 1,
+    "Key": 29
+  },
+  "RedoKeybind": {
+    "$type": "VfxEditor.KeybindConfiguration, VFXEditor",
+    "Modifier": 1,
+    "Key": 29
+  },
+  "SpawnOnSelfKeybind": {
+    "$type": "VfxEditor.KeybindConfiguration, VFXEditor",
+    "Modifier": 1,
+    "Key": 29
+  },
+  "SpawnOnGroundKeybind": {
+    "$type": "VfxEditor.KeybindConfiguration, VFXEditor",
+    "Modifier": 1,
+    "Key": 29
+  },
+  "SpawnOnTargetKeybind": {
+    "$type": "VfxEditor.KeybindConfiguration, VFXEditor",
+    "Modifier": 1,
+    "Key": 29
+  },
+  "VFXNodeLibraryItems": [],
+  "VfxTextureLibraryItems": [
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Fire",
+      "Id": "QKIFD9PG2LCA",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_fire1/texture/fire007bm.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Fire Wide",
+      "Id": "95CH67IPFACC",
+      "PropType": 2,
+      "Path": "vfx/ws/wgp_ws_s17/texture/fire019bh.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Fire Wide Transparent",
+      "Id": "A4XM6Z5WS0ZW",
+      "PropType": 2,
+      "Path": "vfx/monster/m0618/texture/fire_r_uv_013_k1.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Medium Fire",
+      "Id": "JMVPGZMNKM86",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_fire1/texture/fire001bt.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Light Fire",
+      "Id": "WGF74V18NIQU",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_fire1/texture/fire_u007a_h.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Blue Flame",
+      "Id": "VC3BXNJJ6NUU",
+      "PropType": 2,
+      "Path": "vfx/action/ab_swl_abl027/texture/1pt_fire01bs.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Orange Flame",
+      "Id": "PNQMW25MB7Z7",
+      "PropType": 2,
+      "Path": "vfx/action/ab_swl_abl038/texture/sm_fire02ah.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Purple Fire",
+      "Id": "EA8NYG33B683",
+      "PropType": 2,
+      "Path": "vfx/monster/m0565/texture/m0565sp1_uvzmnfire_v01p.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Blue Fire",
+      "Id": "Y44FZ5G2PJ8V",
+      "PropType": 2,
+      "Path": "vfx/action/ab_swl_abl027/texture/bh_uv_fire_1s.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Blue Fire Wide",
+      "Id": "G39VIDOWB10X",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_swl_mgc029/texture/m0396fire_uv_052b_128_d5_w.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Green Fire",
+      "Id": "TB07LF2QULAF",
+      "PropType": 2,
+      "Path": "chara/weapon/w0808/obj/body/b0017/vfx/texture/uvfire01_bp.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Dark Blue Fire",
+      "Id": "9TYMAOW2RA27",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_swl_mgc020/texture/uv_fire_hk_bl1s.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Smoke",
+      "Id": "D85H0J7JL0N4",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_sword_fire1/texture/aura001am.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "White Lightning Wide",
+      "Id": "UXQUUMADUHPS",
+      "PropType": 2,
+      "Path": "vfx/monster/d1025/texture/uvelcline03s.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Blue Lightning Wide",
+      "Id": "2831N5PUVE8N",
+      "PropType": 2,
+      "Path": "vfx/monster/m0123/texture/uvelcline01s.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Blue Lightning Short",
+      "Id": "G4U4HBR2956C",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_sword_thunder1/texture/elct001bt.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "White Lightning",
+      "Id": "WRZ1S283R8YM",
+      "PropType": 2,
+      "Path": "vfx/monster/m0123/texture/uvelc01s.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Blue Lightning Arcs",
+      "Id": "19YM7VDAEHD5",
+      "PropType": 2,
+      "Path": "vfx/monster/m0123/texture/elc_pt02as.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Blue Lightning Arcs 2",
+      "Id": "WBZOAMR4251P",
+      "PropType": 2,
+      "Path": "vfx/monster/m0123/texture/elc_pt01as.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Purple Lightning Thick",
+      "Id": "GI7ROL2554H5",
+      "PropType": 2,
+      "Path": "vfx/monster/m7006/texture/uvelcline02bs.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Blue Lightning",
+      "Id": "7N0LQ15D7X5K",
+      "PropType": 2,
+      "Path": "vfx/monster/m0150/texture/elct601ac.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "White Lightning Thick",
+      "Id": "FYHE9IQJ7CBU",
+      "PropType": 2,
+      "Path": "vfx/monster/gimmick4/texture/uv_elc_line01as.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Red Lightning",
+      "Id": "Y5Q0S66ZQJHN",
+      "PropType": 2,
+      "Path": "vfx/monster/gimmick4/texture/uv_elc_02v.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Blue and Yellow Lightning Thick",
+      "Id": "B01YTBGIOR7L",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_2rp_b04/texture/elec105_ah.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Yellow Lightning Arcs",
+      "Id": "3IERZ7EAE3R7",
+      "PropType": 2,
+      "Path": "vfx/monster/m0559/texture/elc_pp02_2_128r.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Yellow Lightning Arcs 2",
+      "Id": "Y3ZZQN18UYU0",
+      "PropType": 2,
+      "Path": "vfx/monster/m0559/texture/elc_pp01_2_128r.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Stone",
+      "Id": "3D8JH9OJ6CM0",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_sword_stone1/texture/rock_u02ah.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Firey Stone",
+      "Id": "QH98LDVK2Q18",
+      "PropType": 2,
+      "Path": "vfx/limitbreak/lbk_warrior_lv3/texture/uv_rock01wt.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Droplet",
+      "Id": "9YK8ZZ3NYDWO",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_sword_water1/texture/watr022am.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Water",
+      "Id": "PTOTWX0QDOUP",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_sword_water1/texture/wter_001bt.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Water Wide",
+      "Id": "RHELT9M9N1FH",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_sword_water1/texture/watr016am.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Horizontal Droplets",
+      "Id": "T3LII5TJYBE3",
+      "PropType": 2,
+      "Path": "vfx/monster/common/texture/watr063af.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Water Opaque",
+      "Id": "X1HNTOUGQRUJ",
+      "PropType": 2,
+      "Path": "vfx/monster/common/texture/watr065bf.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Water Edge",
+      "Id": "QXD23I8JJRGU",
+      "PropType": 2,
+      "Path": "vfx/monster/common/texture/watr072af.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Ice",
+      "Id": "MGGBAT5ZZT0L",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_sword_ice1/texture/jew_u02ah.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Ice Shiny",
+      "Id": "XVSYGL7VFSPH",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_sword_ice1/texture/glss_u01ah.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Blue Line",
+      "Id": "7DDWHA0LO954",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_sword_water1/texture/line003bm.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Orange Line",
+      "Id": "V4P5ZC0RAMTG",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_sword_fire1/texture/line002bm.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Green Line",
+      "Id": "PJCC5W9XJGDL",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_sword_stone1/texture/line005bm.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Purple Line",
+      "Id": "PJPO4YMQ104E",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_sword_thunder1/texture/line004bm.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Orange Fading Line",
+      "Id": "O0LQFXARJIB5",
+      "PropType": 2,
+      "Path": "vfx/bgb/2gb_ws_s02/texture/line03y_i.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Bramble",
+      "Id": "ZIVXAIQK8ZM3",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_2rp_w25/texture/mgc2rp25_togeline01p.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Vine",
+      "Id": "PSDD1XJSPYTB",
+      "PropType": 2,
+      "Path": "vfx/monster/m0295/texture/othr077_c.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Music Notes",
+      "Id": "3DSNV24UZKV1",
+      "PropType": 2,
+      "Path": "vfx/monster/m0742/texture/othr602_t1.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Blue Powder",
+      "Id": "CI4KNWJ4CM5G",
+      "PropType": 2,
+      "Path": "vfx/monster/m0042/texture/kira_002bm.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Orange Spark",
+      "Id": "1WLNM1E4YBG8",
+      "PropType": 2,
+      "Path": "vfx/monster/m0123/texture/spkanm01as.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Rock Powder",
+      "Id": "6TJ73PAJOMPY",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_sword_stone1/texture/rock_a01ah.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Glass Powder",
+      "Id": "K52VN6A88IG4",
+      "PropType": 2,
+      "Path": "vfx/monster/m0063/texture/sold002_c.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Large White Powder",
+      "Id": "ICA85H8OZJAZ",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_blizara1/texture/snow_a01ah.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Flame Powder",
+      "Id": "B8GVBR8L6HQ5",
+      "PropType": 2,
+      "Path": "vfx/common/texture/fire214_i.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Orange Powder",
+      "Id": "1Y1XYAD5TJ70",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_2rp_b08/texture/hinoko_anm.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Feather",
+      "Id": "C17TFUTJIT5V",
+      "PropType": 2,
+      "Path": "vfx/monster/m0016/texture/hane_s01bh.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Glowing Feather",
+      "Id": "MQ1CBBPKZP6U",
+      "PropType": 2,
+      "Path": "vfx/monster/m7106/texture/hane_00af.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Spark Powder",
+      "Id": "3HFZRFOU7AXQ",
+      "PropType": 2,
+      "Path": "vfx/monster/m0011/texture/elec01t16.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Leaf Powder",
+      "Id": "U270U18SGA2J",
+      "PropType": 2,
+      "Path": "vfx/monster/m0487/texture/momiji_03ah.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Flower Petal Powder",
+      "Id": "IPSQK8QQQT1S",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_2rp_w25/texture/mgc2rp25_sakura_anim02p.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Water Droplet Powder",
+      "Id": "H9RDS3NT0MB7",
+      "PropType": 2,
+      "Path": "vfx/monster/gimmick3/texture/mizutama_004_01_i.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Circle Orange",
+      "Id": "V8JRMRT5Z2X9",
+      "PropType": 2,
+      "Path": "vfx/monster/m0640/texture/zmn_tm4t.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Circle Blue",
+      "Id": "20JXGX5LMLOW",
+      "PropType": 2,
+      "Path": "vfx/monster/gimmick2/texture/zmn_tm1s.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Quarter Circle Orange",
+      "Id": "KMJP72N1T4CB",
+      "PropType": 2,
+      "Path": "vfx/monster/m7004/texture/tm_qt1.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Quarter Circle",
+      "Id": "1K4D06V5P95Q",
+      "PropType": 2,
+      "Path": "vfx/monster/m0096/texture/ring001bt.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Fairy Wing",
+      "Id": "EHFRW8XFBXCP",
+      "PropType": 2,
+      "Path": "vfx/monster/m7001/texture/fairy_x01ah.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Fairy Wing Alpha",
+      "Id": "D3RIESFCVN3E",
+      "PropType": 2,
+      "Path": "chara/weapon/w0101/obj/body/b0078/vfx/texture/mariposa_02x.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    },
+    {
+      "$type": "VfxEditor.Library.LibraryProps, VFXEditor",
+      "Name": "Swirly",
+      "Id": "ILB806SCVQLE",
+      "PropType": 2,
+      "Path": "vfx/action/mgc_swl_mgc015/texture/awr_001f_n.atex",
+      "Description": null,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.59,
+        "Y": 0.59,
+        "Z": 0.59,
+        "W": 0.31
+      },
+      "Children": []
+    }
+  ],
+  "TmbTrackLibraryItems": [],
+  "VfxTextureDefaultLoaded": true,
+  "LoopMusic": true,
+  "LoopSoundEffects": false,
+  "ScdVolume": 1.0,
+  "SimulateScdLoop": false,
+  "CurveEditorLineColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": 0.1,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "CurveEditorPointColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "CurveEditorSelectedColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 0.884,
+    "Z": 0.561,
+    "W": 1.0
+  },
+  "CurveEditorPrimarySelectedColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.984,
+    "Y": 0.726,
+    "Z": 0.011,
+    "W": 1.0
+  },
+  "CurveEditorPalette": [
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.24000001,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.3483871,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.4567742,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.5651613,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.6735484,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.78193545,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.70967746,
+      "Y": 0.8,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.6012904,
+      "Y": 0.8,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.49290323,
+      "Y": 0.8,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.3845162,
+      "Y": 0.8,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.27612907,
+      "Y": 0.8,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.8,
+      "Z": 0.312258,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.8,
+      "Z": 0.42064515,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.8,
+      "Z": 0.5290322,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.8,
+      "Z": 0.6374192,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.8,
+      "Z": 0.7458064,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.7458065,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.6374194,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.5290324,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.42064515,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.31225815,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.276129,
+      "Y": 0.24000001,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.384516,
+      "Y": 0.24000001,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.49290323,
+      "Y": 0.24000001,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.6012902,
+      "Y": 0.24000001,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.7096772,
+      "Y": 0.24000001,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.24000001,
+      "Z": 0.7819358,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.24000001,
+      "Z": 0.6735485,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.24000001,
+      "Z": 0.5651615,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.24000001,
+      "Z": 0.45677423,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.24000001,
+      "Z": 0.3483873,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.24000001,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.348387,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.45677444,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.5651614,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.6735484,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8,
+      "Y": 0.7819354,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.7096772,
+      "Y": 0.8,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.6012902,
+      "Y": 0.8,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.49290323,
+      "Y": 0.8,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.3845163,
+      "Y": 0.8,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.27612886,
+      "Y": 0.8,
+      "Z": 0.24000001,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.8,
+      "Z": 0.31225815,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.8,
+      "Z": 0.42064515,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.8,
+      "Z": 0.5290322,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.8,
+      "Z": 0.6374195,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.8,
+      "Z": 0.7458065,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.7458065,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.6374195,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.5290322,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.42064515,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.24000001,
+      "Y": 0.31225815,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.27612874,
+      "Y": 0.24000001,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.3845163,
+      "Y": 0.24000001,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.49290323,
+      "Y": 0.24000001,
+      "Z": 0.8,
+      "W": 1.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.6012902,
+      "Y": 0.24000001,
+      "Z": 0.8,
+      "W": 1.0
+    }
+  ],
+  "CurveEditorLineWidth": 2,
+  "CurveEditorColorRingSize": 3,
+  "CurveEditorGrabbingDistance": 25,
+  "CurveEditorPointSize": 7,
+  "CurveEditorSelectedSize": 10,
+  "CurveEditorPrimarySelectedSize": 12,
+  "TimelineSelectedColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 0.532,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "TimelineBarColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.44,
+    "Y": 0.457,
+    "Z": 0.492,
+    "W": 1.0
+  },
+  "FileBrowserSelectedColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 0.884,
+    "Z": 0.561,
+    "W": 1.0
+  },
+  "FileBrowserFolderColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.516,
+    "Y": 0.859,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "FileBrowserCodeColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.229,
+    "Y": 1.0,
+    "Z": 0.832,
+    "W": 1.0
+  },
+  "FileBrowserMiscColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 0.789,
+    "Z": 0.233,
+    "W": 1.0
+  },
+  "FileBrowserImageColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.321,
+    "Y": 1.0,
+    "Z": 0.31,
+    "W": 1.0
+  },
+  "FileBrowserFfxivColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 0.543,
+    "Z": 0.508,
+    "W": 1.0
+  },
+  "FileBrowserArchiveColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 0.475,
+    "Z": 0.805,
+    "W": 1.0
+  },
+  "FileBrowserPreviewOpen": true,
+  "FileBrowserImagePreview": true,
+  "FileBrowserOverwriteDontAsk": false,
+  "FileBrowserRecent": [],
+  "FileBrowserFavorites": [],
+  "RendererBackground": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.272,
+    "Y": 0.273,
+    "Z": 0.32,
+    "W": 1.0
+  },
+  "MaterialAmbientColor": {
+    "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+    "X": 0.0392,
+    "Y": 0.0156,
+    "Z": 0.04313
+  },
+  "Light1": {
+    "$type": "VfxEditor.DirectX.Lights.LightConfiguration, VFXEditor",
+    "Position": {
+      "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+      "X": 2.0,
+      "Y": 2.0,
+      "Z": 2.0
+    },
+    "Color": {
+      "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+      "X": 0.9153226,
+      "Y": 0.8648891,
+      "Z": 0.76768994
+    },
+    "Radius": 10.0,
+    "Falloff": 0.1
+  },
+  "Light2": {
+    "$type": "VfxEditor.DirectX.Lights.LightConfiguration, VFXEditor",
+    "Position": {
+      "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+      "X": -2.0,
+      "Y": -2.0,
+      "Z": -2.0
+    },
+    "Color": {
+      "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+      "X": 0.39516127,
+      "Y": 0.28755587,
+      "Z": 0.2692833
+    },
+    "Radius": 10.0,
+    "Falloff": 0.1
+  },
+  "PhybSkeletonSplit": true,
+  "EidSkeletonSplit": true,
+  "ShowBoneNames": true,
+  "SklbBoneDisplay": 2,
+  "SklbMappingIndexDisplay": false,
+  "SklbMappingUpdateExisting": true,
+  "SkeletonBoneNameColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "SkeletonBoneLineColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "PapMaterialDisplay": 1,
+  "PapMaterialBaseColor": {
+    "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0
+  },
+  "ModelWireframe": false,
+  "ModelShowEdges": true,
+  "ModelShowEmitters": true,
+  "ModelEmittersSize": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 0.025,
+    "Y": 0.05
+  },
+  "EmitterVertexSplitOpen": true,
+  "LuaParensColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.5,
+    "Y": 0.5,
+    "Z": 0.5,
+    "W": 1.0
+  },
+  "LuaFunctionColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": 0.439,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "LuaLiteralColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.639,
+    "Y": 0.207,
+    "Z": 0.933,
+    "W": 1.0
+  },
+  "LuaVariableColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.125,
+    "Y": 0.67058,
+    "Z": 0.45098,
+    "W": 1.0
+  },
+  "NodeGraphUnitGridSmall": 10.0,
+  "NodeGraphUnitGridLarge": 50.0,
+  "NodeGraphGridSnapProximity": 3.5,
+  "NodeGraphTimeForRulerTextFade": 2500.0,
+  "NodeGraphShowRulerText": false,
+  "ExcludedBones": [],
+  "PngMips": 9,
+  "PngFormat": 13361,
+  "CustomPathPrefix": "vfx/custom/",
+  "Version": 0,
+  "IsEnabled": true,
+  "Namespace": null,
+  "WindowName": "Settings",
+  "IsFocused": false,
+  "RespectCloseHotkey": true,
+  "DisableWindowSounds": false,
+  "OnOpenSfxId": 23,
+  "OnCloseSfxId": 24,
+  "DisableFadeInFadeOut": false,
+  "Position": null,
+  "PositionCondition": 0,
+  "Size": {
+    "$type": "System.Nullable`1[[System.Numerics.Vector2, System.Private.CoreLib]], System.Private.CoreLib",
+    "X": 300.0,
+    "Y": 200.0
+  },
+  "SizeCondition": 4,
+  "SizeConstraints": null,
+  "Collapsed": null,
+  "CollapsedCondition": 0,
+  "Flags": 2097152,
+  "ForceMainWindow": false,
+  "BgAlpha": null,
+  "ShowCloseButton": true,
+  "AllowPinning": true,
+  "AllowClickthrough": true,
+  "TitleBarButtons": [],
+  "IsOpen": false
+}

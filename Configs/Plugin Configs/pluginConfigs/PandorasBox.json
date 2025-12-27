@@ -1,0 +1,21 @@
+{
+  "$type": "PandorasBox.Configuration, PandorasBox",
+  "EnabledFeatures": [
+    "OpenAllCoffers",
+    "AutoVoteMvp",
+    "AutoSelectTurnin",
+    "EnableYesButtons",
+    "Desynth",
+    "ExtractAll",
+    "RepairAll",
+    "ReduceAll",
+    "SimplifyRelicQuest",
+    "ATMSolver",
+    "TurboController",
+    "MergeStacks",
+    "AutoTankStance",
+    "AutoChocobo"
+  ],
+  "DisabledTheme": true,
+  "Version": 0
+}

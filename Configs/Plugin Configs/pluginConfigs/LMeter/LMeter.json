@@ -1,0 +1,3398 @@
+{
+  "$type": "LMeter.Config.LMeterConfig, LMeter",
+  "FirstLoad": false,
+  "Version": "0.4.3.3",
+  "Name": "LMeter",
+  "MeterList": {
+    "$type": "LMeter.Config.MeterListConfig, LMeter",
+    "Name": "Profiles",
+    "Meters": [
+      {
+        "$type": "LMeter.Meter.MeterWindow, LMeter",
+        "Enabled": true,
+        "Name": "DPS",
+        "GeneralConfig": {
+          "$type": "LMeter.Config.GeneralConfig, LMeter",
+          "Position": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 797.0,
+            "Y": 475.0
+          },
+          "Size": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 240.0,
+            "Y": 213.0
+          },
+          "Lock": true,
+          "ClickThrough": false,
+          "BackgroundColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.03137255,
+              "Y": 0.03137255,
+              "Z": 0.03137255,
+              "W": 0.43137255
+            }
+          },
+          "ShowBorder": true,
+          "BorderAroundBars": false,
+          "BorderColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 1.0
+            }
+          },
+          "BorderThickness": 1,
+          "DataType": 0,
+          "ReturnToCurrent": false,
+          "Rounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 6
+          },
+          "BorderRounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 0
+          },
+          "Name": "General"
+        },
+        "HeaderConfig": {
+          "$type": "LMeter.Config.HeaderConfig, LMeter",
+          "ShowHeader": true,
+          "HeaderHeight": 20,
+          "BackgroundColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.03137255,
+              "Y": 0.03137255,
+              "Z": 0.03137255,
+              "W": 0.8
+            }
+          },
+          "ShowFooter": false,
+          "FooterHeight": 25,
+          "FooterBackgroundColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "ShowEncounterDuration": true,
+          "DurationColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.972549,
+              "Y": 0.78431374,
+              "Z": 0.8627451,
+              "W": 1.0
+            }
+          },
+          "DurationShowOutline": true,
+          "DurationOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "DurationAlign": 1,
+          "DurationOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "DurationFontId": 3,
+          "DurationFontKey": "Expressway_16",
+          "ShowEncounterName": true,
+          "NameColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "NameShowOutline": true,
+          "NameOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "NameAlign": 1,
+          "NameOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "NameFontId": 3,
+          "NameFontKey": "Expressway_16",
+          "ShowRaidStats": true,
+          "RaidStatsColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5,
+              "Y": 0.5,
+              "Z": 0.5,
+              "W": 1.0
+            }
+          },
+          "StatsShowOutline": true,
+          "StatsOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "StatsAlign": 2,
+          "StatsOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "StatsFontId": 3,
+          "StatsFontKey": "Expressway_16",
+          "RaidStatsFormat": "Damage [damagetotal:k.1]",
+          "ThousandsSeparators": true,
+          "ShowVersion": true,
+          "VersionOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "VersionFontId": 3,
+          "VersionColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.98039216,
+              "Y": 0.78431374,
+              "Z": 0.8627451,
+              "W": 1.0
+            }
+          },
+          "VersionShowOutline": true,
+          "VersionOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "VersionFontKey": "Expressway_16",
+          "Rounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 3
+          },
+          "Active": false,
+          "Name": "Header/Footer"
+        },
+        "HeaderTextConfig": {
+          "$type": "LMeter.Config.TextListConfig`1[[LMeter.Act.DataStructures.Encounter, LMeter]], LMeter",
+          "NameInternal": "Header Texts",
+          "Name": "Header Texts",
+          "Texts": [
+            {
+              "$type": "LMeter.Config.Text, LMeter",
+              "Name": "Damage Done",
+              "Enabled": true,
+              "TextFormat": "Damage Done",
+              "TextOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "AnchorParent": 0,
+              "AnchorPoint": 1,
+              "TextAlignment": 1,
+              "ThousandsSeparators": false,
+              "TextJobColor": false,
+              "TextColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 1.0,
+                  "W": 1.0
+                }
+              },
+              "ShowOutline": true,
+              "OutlineColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "FontKey": "Expressway_16",
+              "FontId": 3,
+              "FixedTextWidth": false,
+              "TextWidth": 60.0,
+              "UseEllipsis": true,
+              "ShowSeparator": false,
+              "SeparatorWidth": 2.0,
+              "SeparatorHeight": 0.75,
+              "SeparatorOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "SeparatorColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "UseBackground": false,
+              "BackgroundColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "EmptyIfZero": false
+            },
+            {
+              "$type": "LMeter.Config.Text, LMeter",
+              "Name": "Raid Stats",
+              "Enabled": true,
+              "TextFormat": "Damage [damagetotal:k.1]",
+              "TextOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "AnchorParent": 0,
+              "AnchorPoint": 2,
+              "TextAlignment": 2,
+              "ThousandsSeparators": false,
+              "TextJobColor": false,
+              "TextColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.5,
+                  "Y": 0.5,
+                  "Z": 0.5,
+                  "W": 1.0
+                }
+              },
+              "ShowOutline": true,
+              "OutlineColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5019608
+                }
+              },
+              "FontKey": "Expressway_16",
+              "FontId": 3,
+              "FixedTextWidth": false,
+              "TextWidth": 60.0,
+              "UseEllipsis": true,
+              "ShowSeparator": false,
+              "SeparatorWidth": 2.0,
+              "SeparatorHeight": 0.75,
+              "SeparatorOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "SeparatorColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "UseBackground": false,
+              "BackgroundColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "EmptyIfZero": false
+            }
+          ]
+        },
+        "FooterTextConfig": {
+          "$type": "LMeter.Config.TextListConfig`1[[LMeter.Act.DataStructures.Encounter, LMeter]], LMeter",
+          "NameInternal": "Footer Texts",
+          "Name": "Footer Texts",
+          "Texts": []
+        },
+        "BarConfig": {
+          "$type": "LMeter.Config.BarConfig, LMeter",
+          "BarHeightType": 0,
+          "BarCount": 8,
+          "BarGaps": 1,
+          "BarHeight": 25.0,
+          "ShowJobIcon": true,
+          "JobIconSizeType": 0,
+          "JobIconSize": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 25.0,
+            "Y": 25.0
+          },
+          "JobIconStyle": 1,
+          "JobIconOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "JobIconBackgroundColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            }
+          },
+          "ThousandsSeparators": true,
+          "UseJobColor": true,
+          "BarColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.3,
+              "Y": 0.3,
+              "Z": 0.3,
+              "W": 1.0
+            }
+          },
+          "ShowRankText": false,
+          "RankTextFormat": "[rank].",
+          "RankTextAlign": 2,
+          "RankTextOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "RankTextJobColor": false,
+          "RankTextColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "RankTextShowOutline": true,
+          "RankTextOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "RankTextFontKey": "Dalamud Font",
+          "RankTextFontId": 0,
+          "AlwaysShowSelf": false,
+          "LeftTextFormat": "[name]",
+          "LeftTextOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "LeftTextJobColor": false,
+          "BarNameColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "BarNameShowOutline": true,
+          "BarNameOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "BarNameFontKey": "Expressway_16",
+          "BarNameFontId": 3,
+          "UseCharacterName": false,
+          "RightTextFormat": "[damagetotal:k.1]  ([encdps:k.1])",
+          "RightTextOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "RightTextJobColor": false,
+          "BarDataColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "BarDataShowOutline": true,
+          "BarDataOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "BarDataFontKey": "Expressway_16",
+          "BarDataFontId": 3,
+          "ShowColumnHeader": false,
+          "ColumnHeaderHeight": 25.0,
+          "ColumnHeaderColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "UseColumnFont": true,
+          "ColumnHeaderTextColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "ColumnHeaderShowOutline": true,
+          "ColumnHeaderOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "ColumnHeaderOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "ColumnHeaderFontKey": "Dalamud Font",
+          "ColumnHeaderFontId": 0,
+          "BarFillHeight": 1.0,
+          "BarBackgroundColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.16470589,
+              "Y": 0.16470589,
+              "Z": 0.16470589,
+              "W": 0.8
+            }
+          },
+          "BarFillDirection": 0,
+          "UseCustomColorForSelf": false,
+          "CustomColorForSelf": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.85490197,
+              "Y": 0.6156863,
+              "Z": 0.18039216,
+              "W": 1.0
+            }
+          },
+          "TopBarRounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 3
+          },
+          "MiddleBarRounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 0
+          },
+          "BottomBarRounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 8
+          },
+          "Active": false,
+          "Name": "Bars"
+        },
+        "BarTextConfig": {
+          "$type": "LMeter.Config.TextListConfig`1[[LMeter.Act.DataStructures.Combatant, LMeter]], LMeter",
+          "NameInternal": "Bar Texts",
+          "Name": "Bar Texts",
+          "Texts": [
+            {
+              "$type": "LMeter.Config.Text, LMeter",
+              "Name": "Name",
+              "Enabled": true,
+              "TextFormat": "[name_first]",
+              "TextOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 21.0,
+                "Y": 0.0
+              },
+              "AnchorParent": 0,
+              "AnchorPoint": 1,
+              "TextAlignment": 1,
+              "ThousandsSeparators": false,
+              "TextJobColor": false,
+              "TextColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 1.0,
+                  "W": 1.0
+                }
+              },
+              "ShowOutline": true,
+              "OutlineColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "FontKey": "Expressway_16",
+              "FontId": 3,
+              "FixedTextWidth": false,
+              "TextWidth": 60.0,
+              "UseEllipsis": true,
+              "ShowSeparator": false,
+              "SeparatorWidth": 2.0,
+              "SeparatorHeight": 0.75,
+              "SeparatorOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "SeparatorColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "UseBackground": false,
+              "BackgroundColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "EmptyIfZero": false
+            },
+            {
+              "$type": "LMeter.Config.Text, LMeter",
+              "Name": "Data",
+              "Enabled": true,
+              "TextFormat": "[damagetotal:k.1] ([dps:k.1])",
+              "TextOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "AnchorParent": 0,
+              "AnchorPoint": 2,
+              "TextAlignment": 2,
+              "ThousandsSeparators": true,
+              "TextJobColor": false,
+              "TextColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 1.0,
+                  "W": 1.0
+                }
+              },
+              "ShowOutline": true,
+              "OutlineColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "FontKey": "Expressway_16",
+              "FontId": 3,
+              "FixedTextWidth": false,
+              "TextWidth": 60.0,
+              "UseEllipsis": true,
+              "ShowSeparator": false,
+              "SeparatorWidth": 2.0,
+              "SeparatorHeight": 0.75,
+              "SeparatorOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "SeparatorColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "UseBackground": false,
+              "BackgroundColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "EmptyIfZero": false
+            }
+          ]
+        },
+        "BarColorsConfig": {
+          "$type": "LMeter.Config.BarColorsConfig, LMeter",
+          "PLDColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.65882355,
+              "Y": 0.8235294,
+              "Z": 0.9019608,
+              "W": 1.0
+            }
+          },
+          "DRKColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.81960785,
+              "Y": 0.14901961,
+              "Z": 0.8,
+              "W": 1.0
+            }
+          },
+          "WARColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.8117647,
+              "Y": 0.14901961,
+              "Z": 0.12941177,
+              "W": 1.0
+            }
+          },
+          "GNBColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.4745098,
+              "Y": 0.42745098,
+              "Z": 0.1882353,
+              "W": 1.0
+            }
+          },
+          "GLAColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.65882355,
+              "Y": 0.8235294,
+              "Z": 0.9019608,
+              "W": 1.0
+            }
+          },
+          "MRDColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.8117647,
+              "Y": 0.14901961,
+              "Z": 0.12941177,
+              "W": 1.0
+            }
+          },
+          "SCHColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5254902,
+              "Y": 0.34117648,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "WHMColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 0.9411765,
+              "Z": 0.8627451,
+              "W": 1.0
+            }
+          },
+          "ASTColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 0.90588236,
+              "Z": 0.2901961,
+              "W": 1.0
+            }
+          },
+          "SGEColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5647059,
+              "Y": 0.6901961,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "CNJColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 0.9411765,
+              "Z": 0.8627451,
+              "W": 1.0
+            }
+          },
+          "MNKColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.8392157,
+              "Y": 0.6117647,
+              "Z": 0.0,
+              "W": 1.0
+            }
+          },
+          "NINColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.6862745,
+              "Y": 0.09803922,
+              "Z": 0.39215687,
+              "W": 1.0
+            }
+          },
+          "DRGColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.25490198,
+              "Y": 0.39215687,
+              "Z": 0.8039216,
+              "W": 1.0
+            }
+          },
+          "SAMColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.89411765,
+              "Y": 0.42745098,
+              "Z": 0.015686275,
+              "W": 1.0
+            }
+          },
+          "RPRColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5882353,
+              "Y": 0.3529412,
+              "Z": 0.5647059,
+              "W": 1.0
+            }
+          },
+          "VPRColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0627451,
+              "Y": 0.50980395,
+              "Z": 0.0627451,
+              "W": 1.0
+            }
+          },
+          "PGLColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.8392157,
+              "Y": 0.6117647,
+              "Z": 0.0,
+              "W": 1.0
+            }
+          },
+          "ROGColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.6862745,
+              "Y": 0.09803922,
+              "Z": 0.39215687,
+              "W": 1.0
+            }
+          },
+          "LNCColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.25490198,
+              "Y": 0.39215687,
+              "Z": 0.8039216,
+              "W": 1.0
+            }
+          },
+          "BRDColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5686275,
+              "Y": 0.7294118,
+              "Z": 0.36862746,
+              "W": 1.0
+            }
+          },
+          "MCHColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.43137255,
+              "Y": 0.88235295,
+              "Z": 0.8392157,
+              "W": 1.0
+            }
+          },
+          "DNCColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.8862745,
+              "Y": 0.6901961,
+              "Z": 0.6862745,
+              "W": 1.0
+            }
+          },
+          "ARCColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5686275,
+              "Y": 0.7294118,
+              "Z": 0.36862746,
+              "W": 1.0
+            }
+          },
+          "BLMColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.64705884,
+              "Y": 0.4745098,
+              "Z": 0.8392157,
+              "W": 1.0
+            }
+          },
+          "SMNColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.1764706,
+              "Y": 0.60784316,
+              "Z": 0.47058824,
+              "W": 1.0
+            }
+          },
+          "RDMColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.9098039,
+              "Y": 0.48235294,
+              "Z": 0.48235294,
+              "W": 1.0
+            }
+          },
+          "PCTColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.9882353,
+              "Y": 0.57254905,
+              "Z": 0.88235295,
+              "W": 1.0
+            }
+          },
+          "BLUColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.7254902,
+              "Z": 0.96862745,
+              "W": 1.0
+            }
+          },
+          "THMColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.64705884,
+              "Y": 0.4745098,
+              "Z": 0.8392157,
+              "W": 1.0
+            }
+          },
+          "ACNColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.1764706,
+              "Y": 0.60784316,
+              "Z": 0.47058824,
+              "W": 1.0
+            }
+          },
+          "UKNColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.85490197,
+              "Y": 0.6156863,
+              "Z": 0.18039216,
+              "W": 1.0
+            }
+          },
+          "Active": false,
+          "Name": "Colors"
+        },
+        "VisibilityConfig": {
+          "$type": "LMeter.Config.VisibilityConfig, LMeter",
+          "VisibilityConditions": [
+            {
+              "$type": "LMeter.Config.VisibilityCondition, LMeter",
+              "Inverted": false,
+              "Operator": 0,
+              "ConditionType": 0,
+              "ShowForJobTypes": 0,
+              "CustomJobString": "",
+              "CustomJobList": [],
+              "Zone": 0
+            }
+          ],
+          "Initialized": false,
+          "AlwaysHide": false,
+          "ShouldClip": true,
+          "ShowOnMouseover": false,
+          "HideIfNotConnected": false,
+          "ResultOption": 0,
+          "Name": "Visibility"
+        }
+      },
+      {
+        "$type": "LMeter.Meter.MeterWindow, LMeter",
+        "Enabled": true,
+        "Name": "Duration",
+        "GeneralConfig": {
+          "$type": "LMeter.Config.GeneralConfig, LMeter",
+          "Position": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 795.0,
+            "Y": 450.0
+          },
+          "Size": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 224.0,
+            "Y": 176.0
+          },
+          "Lock": true,
+          "ClickThrough": true,
+          "BackgroundColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            }
+          },
+          "ShowBorder": false,
+          "BorderAroundBars": false,
+          "BorderColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.11764706,
+              "Y": 0.11764706,
+              "Z": 0.11764706,
+              "W": 0.9019608
+            }
+          },
+          "BorderThickness": 2,
+          "DataType": 0,
+          "ReturnToCurrent": true,
+          "Rounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 6
+          },
+          "BorderRounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 0
+          },
+          "Name": "General"
+        },
+        "HeaderConfig": {
+          "$type": "LMeter.Config.HeaderConfig, LMeter",
+          "ShowHeader": true,
+          "HeaderHeight": 25,
+          "BackgroundColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.11764706,
+              "Y": 0.11764706,
+              "Z": 0.11764706,
+              "W": 0.0
+            }
+          },
+          "ShowFooter": false,
+          "FooterHeight": 25,
+          "FooterBackgroundColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "ShowEncounterDuration": true,
+          "DurationColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.74509805,
+              "Z": 0.88235295,
+              "W": 1.0
+            }
+          },
+          "DurationShowOutline": true,
+          "DurationOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "DurationAlign": 1,
+          "DurationOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "DurationFontId": 3,
+          "DurationFontKey": "Expressway_16",
+          "ShowEncounterName": true,
+          "NameColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "NameShowOutline": true,
+          "NameOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "NameAlign": 1,
+          "NameOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "NameFontId": 3,
+          "NameFontKey": "Expressway_16",
+          "ShowRaidStats": true,
+          "RaidStatsColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5,
+              "Y": 0.5,
+              "Z": 0.5,
+              "W": 1.0
+            }
+          },
+          "StatsShowOutline": true,
+          "StatsOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "StatsAlign": 2,
+          "StatsOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "StatsFontId": 3,
+          "StatsFontKey": "Expressway_16",
+          "RaidStatsFormat": "[dps]rdps [hps]rhps Deaths: [deaths]",
+          "ThousandsSeparators": true,
+          "ShowVersion": false,
+          "VersionOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "VersionFontId": 3,
+          "VersionColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "VersionShowOutline": true,
+          "VersionOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "VersionFontKey": "Expressway_16",
+          "Rounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 3
+          },
+          "Active": false,
+          "Name": "Header/Footer"
+        },
+        "HeaderTextConfig": {
+          "$type": "LMeter.Config.TextListConfig`1[[LMeter.Act.DataStructures.Encounter, LMeter]], LMeter",
+          "NameInternal": "Header Texts",
+          "Name": "Header Texts",
+          "Texts": [
+            {
+              "$type": "LMeter.Config.Text, LMeter",
+              "Name": "Encounter Duration",
+              "Enabled": true,
+              "TextFormat": "[[duration]] Deaths: [deaths]",
+              "TextOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "AnchorParent": 0,
+              "AnchorPoint": 1,
+              "TextAlignment": 1,
+              "ThousandsSeparators": false,
+              "TextJobColor": false,
+              "TextColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 1.0,
+                  "W": 1.0
+                }
+              },
+              "ShowOutline": true,
+              "OutlineColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "FontKey": "Expressway_16",
+              "FontId": 3,
+              "FixedTextWidth": false,
+              "TextWidth": 60.0,
+              "UseEllipsis": false,
+              "ShowSeparator": false,
+              "SeparatorWidth": 2.0,
+              "SeparatorHeight": 0.75,
+              "SeparatorOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "SeparatorColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "UseBackground": false,
+              "BackgroundColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "EmptyIfZero": false
+            }
+          ]
+        },
+        "FooterTextConfig": {
+          "$type": "LMeter.Config.TextListConfig`1[[LMeter.Act.DataStructures.Encounter, LMeter]], LMeter",
+          "NameInternal": "Footer Texts",
+          "Name": "Footer Texts",
+          "Texts": [
+            {
+              "$type": "LMeter.Config.Text, LMeter",
+              "Name": "Deaths",
+              "Enabled": true,
+              "TextFormat": "Deaths: [deaths]",
+              "TextOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "AnchorParent": 0,
+              "AnchorPoint": 2,
+              "TextAlignment": 1,
+              "ThousandsSeparators": false,
+              "TextJobColor": false,
+              "TextColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.627451,
+                  "Y": 0.627451,
+                  "Z": 0.627451,
+                  "W": 1.0
+                }
+              },
+              "ShowOutline": true,
+              "OutlineColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "FontKey": "Expressway_16",
+              "FontId": 3,
+              "FixedTextWidth": false,
+              "TextWidth": 60.0,
+              "UseEllipsis": false,
+              "ShowSeparator": false,
+              "SeparatorWidth": 2.0,
+              "SeparatorHeight": 0.75,
+              "SeparatorOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "SeparatorColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "UseBackground": false,
+              "BackgroundColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "EmptyIfZero": false
+            },
+            {
+              "$type": "LMeter.Config.Text, LMeter",
+              "Name": "Raid Hps",
+              "Enabled": true,
+              "TextFormat": "[hps:k.1]rhps",
+              "TextOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "AnchorParent": 1,
+              "AnchorPoint": 1,
+              "TextAlignment": 2,
+              "ThousandsSeparators": true,
+              "TextJobColor": false,
+              "TextColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.627451,
+                  "Y": 0.627451,
+                  "Z": 0.627451,
+                  "W": 1.0
+                }
+              },
+              "ShowOutline": true,
+              "OutlineColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "FontKey": "Expressway_16",
+              "FontId": 3,
+              "FixedTextWidth": false,
+              "TextWidth": 60.0,
+              "UseEllipsis": false,
+              "ShowSeparator": false,
+              "SeparatorWidth": 2.0,
+              "SeparatorHeight": 0.75,
+              "SeparatorOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "SeparatorColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "UseBackground": false,
+              "BackgroundColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "EmptyIfZero": false
+            },
+            {
+              "$type": "LMeter.Config.Text, LMeter",
+              "Name": "Raid Dps",
+              "Enabled": true,
+              "TextFormat": "[dps:k.1]rdps",
+              "TextOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": -2.0,
+                "Y": 0.0
+              },
+              "AnchorParent": 2,
+              "AnchorPoint": 1,
+              "TextAlignment": 2,
+              "ThousandsSeparators": false,
+              "TextJobColor": false,
+              "TextColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.627451,
+                  "Y": 0.627451,
+                  "Z": 0.627451,
+                  "W": 1.0
+                }
+              },
+              "ShowOutline": true,
+              "OutlineColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "FontKey": "Expressway_16",
+              "FontId": 3,
+              "FixedTextWidth": true,
+              "TextWidth": 75.0,
+              "UseEllipsis": false,
+              "ShowSeparator": false,
+              "SeparatorWidth": 2.0,
+              "SeparatorHeight": 0.75,
+              "SeparatorOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "SeparatorColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "UseBackground": false,
+              "BackgroundColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "EmptyIfZero": false
+            }
+          ]
+        },
+        "BarConfig": {
+          "$type": "LMeter.Config.BarConfig, LMeter",
+          "BarHeightType": 1,
+          "BarCount": 8,
+          "BarGaps": 1,
+          "BarHeight": 1.0,
+          "ShowJobIcon": false,
+          "JobIconSizeType": 0,
+          "JobIconSize": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 25.0,
+            "Y": 25.0
+          },
+          "JobIconStyle": 0,
+          "JobIconOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 1.0
+          },
+          "JobIconBackgroundColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            }
+          },
+          "ThousandsSeparators": true,
+          "UseJobColor": true,
+          "BarColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.3,
+              "Y": 0.3,
+              "Z": 0.3,
+              "W": 1.0
+            }
+          },
+          "ShowRankText": false,
+          "RankTextFormat": "[rank].",
+          "RankTextAlign": 2,
+          "RankTextOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "RankTextJobColor": false,
+          "RankTextColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "RankTextShowOutline": true,
+          "RankTextOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "RankTextFontKey": "Expressway_16",
+          "RankTextFontId": 3,
+          "AlwaysShowSelf": false,
+          "LeftTextFormat": "[name]",
+          "LeftTextOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "LeftTextJobColor": false,
+          "BarNameColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "BarNameShowOutline": true,
+          "BarNameOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "BarNameFontKey": "Expressway_16",
+          "BarNameFontId": 3,
+          "UseCharacterName": false,
+          "RightTextFormat": "[damagetotal:k.1]  ([dps:k.1], [damagepct])",
+          "RightTextOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "RightTextJobColor": false,
+          "BarDataColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "BarDataShowOutline": true,
+          "BarDataOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "BarDataFontKey": "Expressway_16",
+          "BarDataFontId": 3,
+          "ShowColumnHeader": false,
+          "ColumnHeaderHeight": 25.0,
+          "ColumnHeaderColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "UseColumnFont": true,
+          "ColumnHeaderTextColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "ColumnHeaderShowOutline": true,
+          "ColumnHeaderOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "ColumnHeaderOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "ColumnHeaderFontKey": "Dalamud Font",
+          "ColumnHeaderFontId": 0,
+          "BarFillHeight": 0.0,
+          "BarBackgroundColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.3019608,
+              "Y": 0.3019608,
+              "Z": 0.3019608,
+              "W": 0.0
+            }
+          },
+          "BarFillDirection": 0,
+          "UseCustomColorForSelf": false,
+          "CustomColorForSelf": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.85490197,
+              "Y": 0.6156863,
+              "Z": 0.18039216,
+              "W": 1.0
+            }
+          },
+          "TopBarRounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 3
+          },
+          "MiddleBarRounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 0
+          },
+          "BottomBarRounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 8
+          },
+          "Active": false,
+          "Name": "Bars"
+        },
+        "BarTextConfig": {
+          "$type": "LMeter.Config.TextListConfig`1[[LMeter.Act.DataStructures.Combatant, LMeter]], LMeter",
+          "NameInternal": "Bar Texts",
+          "Name": "Bar Texts",
+          "Texts": [
+            {
+              "$type": "LMeter.Config.Text, LMeter",
+              "Name": "DPS",
+              "Enabled": true,
+              "TextFormat": "",
+              "TextOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "AnchorParent": 0,
+              "AnchorPoint": 2,
+              "TextAlignment": 2,
+              "ThousandsSeparators": false,
+              "TextJobColor": false,
+              "TextColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 1.0,
+                  "W": 1.0
+                }
+              },
+              "ShowOutline": false,
+              "OutlineColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "FontKey": "Expressway_16",
+              "FontId": 3,
+              "FixedTextWidth": false,
+              "TextWidth": 50.0,
+              "UseEllipsis": false,
+              "ShowSeparator": false,
+              "SeparatorWidth": 2.0,
+              "SeparatorHeight": 0.75,
+              "SeparatorOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "SeparatorColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "UseBackground": false,
+              "BackgroundColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "EmptyIfZero": false
+            }
+          ]
+        },
+        "BarColorsConfig": {
+          "$type": "LMeter.Config.BarColorsConfig, LMeter",
+          "PLDColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.65882355,
+              "Y": 0.8235294,
+              "Z": 0.9019608,
+              "W": 1.0
+            }
+          },
+          "DRKColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.81960785,
+              "Y": 0.14901961,
+              "Z": 0.8,
+              "W": 1.0
+            }
+          },
+          "WARColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.8117647,
+              "Y": 0.14901961,
+              "Z": 0.12941177,
+              "W": 1.0
+            }
+          },
+          "GNBColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.4745098,
+              "Y": 0.42745098,
+              "Z": 0.1882353,
+              "W": 1.0
+            }
+          },
+          "GLAColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.65882355,
+              "Y": 0.8235294,
+              "Z": 0.9019608,
+              "W": 1.0
+            }
+          },
+          "MRDColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.8117647,
+              "Y": 0.14901961,
+              "Z": 0.12941177,
+              "W": 1.0
+            }
+          },
+          "SCHColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5254902,
+              "Y": 0.34117648,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "WHMColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 0.9411765,
+              "Z": 0.8627451,
+              "W": 1.0
+            }
+          },
+          "ASTColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 0.90588236,
+              "Z": 0.2901961,
+              "W": 1.0
+            }
+          },
+          "SGEColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5647059,
+              "Y": 0.6901961,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "CNJColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 0.9411765,
+              "Z": 0.8627451,
+              "W": 1.0
+            }
+          },
+          "MNKColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.8392157,
+              "Y": 0.6117647,
+              "Z": 0.0,
+              "W": 1.0
+            }
+          },
+          "NINColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.6862745,
+              "Y": 0.09803922,
+              "Z": 0.39215687,
+              "W": 1.0
+            }
+          },
+          "DRGColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.25490198,
+              "Y": 0.39215687,
+              "Z": 0.8039216,
+              "W": 1.0
+            }
+          },
+          "SAMColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.89411765,
+              "Y": 0.42745098,
+              "Z": 0.015686275,
+              "W": 1.0
+            }
+          },
+          "RPRColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5882353,
+              "Y": 0.3529412,
+              "Z": 0.5647059,
+              "W": 1.0
+            }
+          },
+          "VPRColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0627451,
+              "Y": 0.50980395,
+              "Z": 0.0627451,
+              "W": 1.0
+            }
+          },
+          "PGLColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.8392157,
+              "Y": 0.6117647,
+              "Z": 0.0,
+              "W": 1.0
+            }
+          },
+          "ROGColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.6862745,
+              "Y": 0.09803922,
+              "Z": 0.39215687,
+              "W": 1.0
+            }
+          },
+          "LNCColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.25490198,
+              "Y": 0.39215687,
+              "Z": 0.8039216,
+              "W": 1.0
+            }
+          },
+          "BRDColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5686275,
+              "Y": 0.7294118,
+              "Z": 0.36862746,
+              "W": 1.0
+            }
+          },
+          "MCHColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.43137255,
+              "Y": 0.88235295,
+              "Z": 0.8392157,
+              "W": 1.0
+            }
+          },
+          "DNCColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.8862745,
+              "Y": 0.6901961,
+              "Z": 0.6862745,
+              "W": 1.0
+            }
+          },
+          "ARCColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5686275,
+              "Y": 0.7294118,
+              "Z": 0.36862746,
+              "W": 1.0
+            }
+          },
+          "BLMColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.64705884,
+              "Y": 0.4745098,
+              "Z": 0.8392157,
+              "W": 1.0
+            }
+          },
+          "SMNColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.1764706,
+              "Y": 0.60784316,
+              "Z": 0.47058824,
+              "W": 1.0
+            }
+          },
+          "RDMColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.9098039,
+              "Y": 0.48235294,
+              "Z": 0.48235294,
+              "W": 1.0
+            }
+          },
+          "PCTColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.9882353,
+              "Y": 0.57254905,
+              "Z": 0.88235295,
+              "W": 1.0
+            }
+          },
+          "BLUColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.7254902,
+              "Z": 0.96862745,
+              "W": 1.0
+            }
+          },
+          "THMColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.64705884,
+              "Y": 0.4745098,
+              "Z": 0.8392157,
+              "W": 1.0
+            }
+          },
+          "ACNColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.1764706,
+              "Y": 0.60784316,
+              "Z": 0.47058824,
+              "W": 1.0
+            }
+          },
+          "UKNColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.85490197,
+              "Y": 0.6156863,
+              "Z": 0.18039216,
+              "W": 1.0
+            }
+          },
+          "Active": false,
+          "Name": "Colors"
+        },
+        "VisibilityConfig": {
+          "$type": "LMeter.Config.VisibilityConfig, LMeter",
+          "VisibilityConditions": [
+            {
+              "$type": "LMeter.Config.VisibilityCondition, LMeter",
+              "Inverted": false,
+              "Operator": 0,
+              "ConditionType": 0,
+              "ShowForJobTypes": 0,
+              "CustomJobString": "",
+              "CustomJobList": [],
+              "Zone": 0
+            }
+          ],
+          "Initialized": false,
+          "AlwaysHide": false,
+          "ShouldClip": true,
+          "ShowOnMouseover": false,
+          "HideIfNotConnected": false,
+          "ResultOption": 0,
+          "Name": "Visibility"
+        }
+      },
+      {
+        "$type": "LMeter.Meter.MeterWindow, LMeter",
+        "Enabled": true,
+        "Name": "HPS",
+        "GeneralConfig": {
+          "$type": "LMeter.Config.GeneralConfig, LMeter",
+          "Position": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 1036.0,
+            "Y": 475.0
+          },
+          "Size": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 240.0,
+            "Y": 213.0
+          },
+          "Lock": true,
+          "ClickThrough": false,
+          "BackgroundColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.03137255,
+              "Y": 0.03137255,
+              "Z": 0.03137255,
+              "W": 0.43137255
+            }
+          },
+          "ShowBorder": true,
+          "BorderAroundBars": false,
+          "BorderColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 1.0
+            }
+          },
+          "BorderThickness": 1,
+          "DataType": 1,
+          "ReturnToCurrent": false,
+          "Rounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 6
+          },
+          "BorderRounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 0
+          },
+          "Name": "General"
+        },
+        "HeaderConfig": {
+          "$type": "LMeter.Config.HeaderConfig, LMeter",
+          "ShowHeader": true,
+          "HeaderHeight": 20,
+          "BackgroundColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.03137255,
+              "Y": 0.03137255,
+              "Z": 0.03137255,
+              "W": 0.8
+            }
+          },
+          "ShowFooter": false,
+          "FooterHeight": 25,
+          "FooterBackgroundColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "ShowEncounterDuration": false,
+          "DurationColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.74509805,
+              "Z": 0.88235295,
+              "W": 1.0
+            }
+          },
+          "DurationShowOutline": true,
+          "DurationOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "DurationAlign": 1,
+          "DurationOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "DurationFontId": 3,
+          "DurationFontKey": "Expressway_16",
+          "ShowEncounterName": false,
+          "NameColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "NameShowOutline": true,
+          "NameOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "NameAlign": 1,
+          "NameOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "NameFontId": 3,
+          "NameFontKey": "Expressway_16",
+          "ShowRaidStats": true,
+          "RaidStatsColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5,
+              "Y": 0.5,
+              "Z": 0.5,
+              "W": 1.0
+            }
+          },
+          "StatsShowOutline": true,
+          "StatsOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "StatsAlign": 2,
+          "StatsOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "StatsFontId": 3,
+          "StatsFontKey": "Expressway_16",
+          "RaidStatsFormat": "Healing [healingtotal:k.1] | Deaths: [deaths]",
+          "ThousandsSeparators": true,
+          "ShowVersion": false,
+          "VersionOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "VersionFontId": 3,
+          "VersionColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.74509805,
+              "Z": 0.88235295,
+              "W": 1.0
+            }
+          },
+          "VersionShowOutline": true,
+          "VersionOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "VersionFontKey": "Expressway_16",
+          "Rounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 3
+          },
+          "Active": false,
+          "Name": "Header/Footer"
+        },
+        "HeaderTextConfig": {
+          "$type": "LMeter.Config.TextListConfig`1[[LMeter.Act.DataStructures.Encounter, LMeter]], LMeter",
+          "NameInternal": "Header Texts",
+          "Name": "Header Texts",
+          "Texts": [
+            {
+              "$type": "LMeter.Config.Text, LMeter",
+              "Name": "Raid Stats",
+              "Enabled": true,
+              "TextFormat": "Healing [healingtotal:k.1]",
+              "TextOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "AnchorParent": 0,
+              "AnchorPoint": 2,
+              "TextAlignment": 2,
+              "ThousandsSeparators": false,
+              "TextJobColor": false,
+              "TextColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.5,
+                  "Y": 0.5,
+                  "Z": 0.5,
+                  "W": 1.0
+                }
+              },
+              "ShowOutline": true,
+              "OutlineColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "FontKey": "Expressway_16",
+              "FontId": 3,
+              "FixedTextWidth": false,
+              "TextWidth": 60.0,
+              "UseEllipsis": true,
+              "ShowSeparator": false,
+              "SeparatorWidth": 2.0,
+              "SeparatorHeight": 0.75,
+              "SeparatorOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "SeparatorColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "UseBackground": false,
+              "BackgroundColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "EmptyIfZero": false
+            },
+            {
+              "$type": "LMeter.Config.Text, LMeter",
+              "Name": "Healing Done",
+              "Enabled": true,
+              "TextFormat": "Healing Done",
+              "TextOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "AnchorParent": 0,
+              "AnchorPoint": 1,
+              "TextAlignment": 1,
+              "ThousandsSeparators": true,
+              "TextJobColor": false,
+              "TextColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 1.0,
+                  "W": 1.0
+                }
+              },
+              "ShowOutline": true,
+              "OutlineColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "FontKey": "Expressway_16",
+              "FontId": 3,
+              "FixedTextWidth": false,
+              "TextWidth": 60.0,
+              "UseEllipsis": true,
+              "ShowSeparator": false,
+              "SeparatorWidth": 2.0,
+              "SeparatorHeight": 0.75,
+              "SeparatorOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "SeparatorColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "UseBackground": false,
+              "BackgroundColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "EmptyIfZero": false
+            }
+          ]
+        },
+        "FooterTextConfig": {
+          "$type": "LMeter.Config.TextListConfig`1[[LMeter.Act.DataStructures.Encounter, LMeter]], LMeter",
+          "NameInternal": "Footer Texts",
+          "Name": "Footer Texts",
+          "Texts": []
+        },
+        "BarConfig": {
+          "$type": "LMeter.Config.BarConfig, LMeter",
+          "BarHeightType": 0,
+          "BarCount": 8,
+          "BarGaps": 1,
+          "BarHeight": 25.0,
+          "ShowJobIcon": true,
+          "JobIconSizeType": 0,
+          "JobIconSize": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 25.0,
+            "Y": 25.0
+          },
+          "JobIconStyle": 1,
+          "JobIconOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "JobIconBackgroundColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            }
+          },
+          "ThousandsSeparators": true,
+          "UseJobColor": true,
+          "BarColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.3,
+              "Y": 0.3,
+              "Z": 0.3,
+              "W": 1.0
+            }
+          },
+          "ShowRankText": false,
+          "RankTextFormat": "[rank].",
+          "RankTextAlign": 2,
+          "RankTextOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "RankTextJobColor": false,
+          "RankTextColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "RankTextShowOutline": true,
+          "RankTextOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "RankTextFontKey": "Dalamud Font",
+          "RankTextFontId": 0,
+          "AlwaysShowSelf": false,
+          "LeftTextFormat": "[name]",
+          "LeftTextOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "LeftTextJobColor": false,
+          "BarNameColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "BarNameShowOutline": true,
+          "BarNameOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "BarNameFontKey": "Expressway_16",
+          "BarNameFontId": 3,
+          "UseCharacterName": false,
+          "RightTextFormat": "[healingtotal:k.1]  ([enchps:k.1])",
+          "RightTextOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "RightTextJobColor": false,
+          "BarDataColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "BarDataShowOutline": true,
+          "BarDataOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "BarDataFontKey": "Expressway_16",
+          "BarDataFontId": 3,
+          "ShowColumnHeader": false,
+          "ColumnHeaderHeight": 25.0,
+          "ColumnHeaderColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "UseColumnFont": true,
+          "ColumnHeaderTextColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "ColumnHeaderShowOutline": true,
+          "ColumnHeaderOutlineColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.5
+            }
+          },
+          "ColumnHeaderOffset": {
+            "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "ColumnHeaderFontKey": "Dalamud Font",
+          "ColumnHeaderFontId": 0,
+          "BarFillHeight": 1.0,
+          "BarBackgroundColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.16470589,
+              "Y": 0.16470589,
+              "Z": 0.16470589,
+              "W": 0.8
+            }
+          },
+          "BarFillDirection": 0,
+          "UseCustomColorForSelf": false,
+          "CustomColorForSelf": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.85490197,
+              "Y": 0.6156863,
+              "Z": 0.18039216,
+              "W": 1.0
+            }
+          },
+          "TopBarRounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 3
+          },
+          "MiddleBarRounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 0
+          },
+          "BottomBarRounding": {
+            "$type": "LMeter.Config.RoundingOptions, LMeter",
+            "Enabled": false,
+            "Rounding": 10.0,
+            "Flag": 8
+          },
+          "Active": false,
+          "Name": "Bars"
+        },
+        "BarTextConfig": {
+          "$type": "LMeter.Config.TextListConfig`1[[LMeter.Act.DataStructures.Combatant, LMeter]], LMeter",
+          "NameInternal": "Bar Texts",
+          "Name": "Bar Texts",
+          "Texts": [
+            {
+              "$type": "LMeter.Config.Text, LMeter",
+              "Name": "Name",
+              "Enabled": true,
+              "TextFormat": "[name_first]",
+              "TextOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 21.0,
+                "Y": 0.0
+              },
+              "AnchorParent": 0,
+              "AnchorPoint": 1,
+              "TextAlignment": 1,
+              "ThousandsSeparators": false,
+              "TextJobColor": false,
+              "TextColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 1.0,
+                  "W": 1.0
+                }
+              },
+              "ShowOutline": true,
+              "OutlineColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "FontKey": "Expressway_16",
+              "FontId": 3,
+              "FixedTextWidth": false,
+              "TextWidth": 60.0,
+              "UseEllipsis": true,
+              "ShowSeparator": false,
+              "SeparatorWidth": 2.0,
+              "SeparatorHeight": 0.75,
+              "SeparatorOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "SeparatorColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "UseBackground": false,
+              "BackgroundColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "EmptyIfZero": false
+            },
+            {
+              "$type": "LMeter.Config.Text, LMeter",
+              "Name": "Data",
+              "Enabled": true,
+              "TextFormat": "[healingtotal:k.1] ([hps:k.1])",
+              "TextOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "AnchorParent": 0,
+              "AnchorPoint": 2,
+              "TextAlignment": 2,
+              "ThousandsSeparators": true,
+              "TextJobColor": false,
+              "TextColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 1.0,
+                  "W": 1.0
+                }
+              },
+              "ShowOutline": true,
+              "OutlineColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "FontKey": "Expressway_16",
+              "FontId": 3,
+              "FixedTextWidth": false,
+              "TextWidth": 60.0,
+              "UseEllipsis": true,
+              "ShowSeparator": false,
+              "SeparatorWidth": 2.0,
+              "SeparatorHeight": 0.75,
+              "SeparatorOffset": {
+                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "SeparatorColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "UseBackground": false,
+              "BackgroundColor": {
+                "$type": "LMeter.Config.ConfigColor, LMeter",
+                "Vector": {
+                  "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0,
+                  "W": 0.5
+                }
+              },
+              "EmptyIfZero": false
+            }
+          ]
+        },
+        "BarColorsConfig": {
+          "$type": "LMeter.Config.BarColorsConfig, LMeter",
+          "PLDColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.65882355,
+              "Y": 0.8235294,
+              "Z": 0.9019608,
+              "W": 1.0
+            }
+          },
+          "DRKColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.81960785,
+              "Y": 0.14901961,
+              "Z": 0.8,
+              "W": 1.0
+            }
+          },
+          "WARColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.8117647,
+              "Y": 0.14901961,
+              "Z": 0.12941177,
+              "W": 1.0
+            }
+          },
+          "GNBColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.4745098,
+              "Y": 0.42745098,
+              "Z": 0.1882353,
+              "W": 1.0
+            }
+          },
+          "GLAColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.65882355,
+              "Y": 0.8235294,
+              "Z": 0.9019608,
+              "W": 1.0
+            }
+          },
+          "MRDColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.8117647,
+              "Y": 0.14901961,
+              "Z": 0.12941177,
+              "W": 1.0
+            }
+          },
+          "SCHColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5254902,
+              "Y": 0.34117648,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "WHMColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 0.9411765,
+              "Z": 0.8627451,
+              "W": 1.0
+            }
+          },
+          "ASTColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 0.90588236,
+              "Z": 0.2901961,
+              "W": 1.0
+            }
+          },
+          "SGEColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5647059,
+              "Y": 0.6901961,
+              "Z": 1.0,
+              "W": 1.0
+            }
+          },
+          "CNJColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 1.0,
+              "Y": 0.9411765,
+              "Z": 0.8627451,
+              "W": 1.0
+            }
+          },
+          "MNKColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.8392157,
+              "Y": 0.6117647,
+              "Z": 0.0,
+              "W": 1.0
+            }
+          },
+          "NINColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.6862745,
+              "Y": 0.09803922,
+              "Z": 0.39215687,
+              "W": 1.0
+            }
+          },
+          "DRGColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.25490198,
+              "Y": 0.39215687,
+              "Z": 0.8039216,
+              "W": 1.0
+            }
+          },
+          "SAMColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.89411765,
+              "Y": 0.42745098,
+              "Z": 0.015686275,
+              "W": 1.0
+            }
+          },
+          "RPRColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5882353,
+              "Y": 0.3529412,
+              "Z": 0.5647059,
+              "W": 1.0
+            }
+          },
+          "VPRColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0627451,
+              "Y": 0.50980395,
+              "Z": 0.0627451,
+              "W": 1.0
+            }
+          },
+          "PGLColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.8392157,
+              "Y": 0.6117647,
+              "Z": 0.0,
+              "W": 1.0
+            }
+          },
+          "ROGColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.6862745,
+              "Y": 0.09803922,
+              "Z": 0.39215687,
+              "W": 1.0
+            }
+          },
+          "LNCColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.25490198,
+              "Y": 0.39215687,
+              "Z": 0.8039216,
+              "W": 1.0
+            }
+          },
+          "BRDColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5686275,
+              "Y": 0.7294118,
+              "Z": 0.36862746,
+              "W": 1.0
+            }
+          },
+          "MCHColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.43137255,
+              "Y": 0.88235295,
+              "Z": 0.8392157,
+              "W": 1.0
+            }
+          },
+          "DNCColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.8862745,
+              "Y": 0.6901961,
+              "Z": 0.6862745,
+              "W": 1.0
+            }
+          },
+          "ARCColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.5686275,
+              "Y": 0.7294118,
+              "Z": 0.36862746,
+              "W": 1.0
+            }
+          },
+          "BLMColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.64705884,
+              "Y": 0.4745098,
+              "Z": 0.8392157,
+              "W": 1.0
+            }
+          },
+          "SMNColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.1764706,
+              "Y": 0.60784316,
+              "Z": 0.47058824,
+              "W": 1.0
+            }
+          },
+          "RDMColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.9098039,
+              "Y": 0.48235294,
+              "Z": 0.48235294,
+              "W": 1.0
+            }
+          },
+          "PCTColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.9882353,
+              "Y": 0.57254905,
+              "Z": 0.88235295,
+              "W": 1.0
+            }
+          },
+          "BLUColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.7254902,
+              "Z": 0.96862745,
+              "W": 1.0
+            }
+          },
+          "THMColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.64705884,
+              "Y": 0.4745098,
+              "Z": 0.8392157,
+              "W": 1.0
+            }
+          },
+          "ACNColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.1764706,
+              "Y": 0.60784316,
+              "Z": 0.47058824,
+              "W": 1.0
+            }
+          },
+          "UKNColor": {
+            "$type": "LMeter.Config.ConfigColor, LMeter",
+            "Vector": {
+              "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+              "X": 0.85490197,
+              "Y": 0.6156863,
+              "Z": 0.18039216,
+              "W": 1.0
+            }
+          },
+          "Active": false,
+          "Name": "Colors"
+        },
+        "VisibilityConfig": {
+          "$type": "LMeter.Config.VisibilityConfig, LMeter",
+          "VisibilityConditions": [
+            {
+              "$type": "LMeter.Config.VisibilityCondition, LMeter",
+              "Inverted": false,
+              "Operator": 0,
+              "ConditionType": 0,
+              "ShowForJobTypes": 0,
+              "CustomJobString": "",
+              "CustomJobList": [],
+              "Zone": 0
+            }
+          ],
+          "Initialized": false,
+          "AlwaysHide": false,
+          "ShouldClip": true,
+          "ShowOnMouseover": false,
+          "HideIfNotConnected": false,
+          "ResultOption": 0,
+          "Name": "Visibility"
+        }
+      }
+    ]
+  },
+  "ActConfig": {
+    "$type": "lmeter.config.actconfig",
+    "ActSocketAddress": "ws://127.0.0.1:10501/ws",
+    "EncounterHistorySize": 15,
+    "AutoReconnect": false,
+    "ReconnectDelay": 30,
+    "ClearAct": false,
+    "AutoEnd": false,
+    "AutoEndDelay": 3,
+    "ClientType": 0,
+    "UseFFLogs": false,
+    "DisableFFLogsOutsideDuty": true,
+    "LogConnectionErrors": true,
+    "Name": "ACT"
+  },
+  "FontConfig": {
+    "$type": "LMeter.Config.FontConfig, LMeter",
+    "Name": "Fonts",
+    "Fonts": {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[LMeter.Helpers.FontData, LMeter]], System.Private.CoreLib",
+      "Expressway_24": {
+        "$type": "LMeter.Helpers.FontData, LMeter",
+        "Name": "Expressway",
+        "Path": "C:\\Users\\xelda\\AppData\\Roaming\\XIVLauncher\\pluginConfigs\\LMeter\\Fonts\\Expressway.ttf",
+        "Size": 24,
+        "Chinese": false,
+        "Korean": false
+      },
+      "Expressway_20": {
+        "$type": "LMeter.Helpers.FontData, LMeter",
+        "Name": "Expressway",
+        "Path": "C:\\Users\\xelda\\AppData\\Roaming\\XIVLauncher\\pluginConfigs\\LMeter\\Fonts\\Expressway.ttf",
+        "Size": 20,
+        "Chinese": false,
+        "Korean": false
+      },
+      "Expressway_16": {
+        "$type": "LMeter.Helpers.FontData, LMeter",
+        "Name": "Expressway",
+        "Path": "C:\\Users\\xelda\\AppData\\Roaming\\XIVLauncher\\pluginConfigs\\LMeter\\Fonts\\Expressway.ttf",
+        "Size": 16,
+        "Chinese": false,
+        "Korean": false
+      }
+    }
+  }
+}

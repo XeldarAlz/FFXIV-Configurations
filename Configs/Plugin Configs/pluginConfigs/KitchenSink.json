@@ -1,0 +1,14 @@
+{
+  "$type": "KitchenSink.Configuration, KitchenSink",
+  "Version": 1,
+  "Characters": [
+    {
+      "$type": "KitchenSink.Configuration+CharacterData, KitchenSink",
+      "LocalContentId": 18014598547735992,
+      "IsGlamourDresserInitialized": false,
+      "GlamourDresserItems": [],
+      "WarnAboutLeves": false
+    }
+  ],
+  "ShowOnlyMissingGlamourSets": true
+}

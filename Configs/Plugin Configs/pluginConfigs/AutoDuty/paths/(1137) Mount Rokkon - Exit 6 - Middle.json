@@ -1,0 +1,437 @@
+{
+  "Actions": [
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 145.46,
+        "Y": 134.0,
+        "Z": 815.67
+      },
+      "Arguments": [
+        "12000"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 145.07,
+        "Y": 134.0,
+        "Z": 802.19
+      },
+      "Arguments": [
+        "20000"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "2012809"
+      ],
+      "Note": "Perceptive Portal"
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "3000"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 690.81,
+        "Y": 36.51,
+        "Z": 486.31
+      },
+      "Arguments": [
+        "2000"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 727.71,
+        "Y": 31.78,
+        "Z": 421.24
+      },
+      "Arguments": [
+        "1000"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 683.97,
+        "Y": 43.41,
+        "Z": 360.63
+      },
+      "Arguments": [
+        "1000"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 737.23,
+        "Y": 42.0,
+        "Z": 277.2
+      },
+      "Arguments": [
+        "9000"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 731.76,
+        "Y": 45.26,
+        "Z": 259.85
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "2013344"
+      ],
+      "Note": "Woven Rope"
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "2000"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 737.16,
+        "Y": 45.26,
+        "Z": 257.56
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "2013343"
+      ],
+      "Note": "Shojo Temple Entrance"
+    },
+    {
+      "Tag": "Revival",
+      "Name": "Revival",
+      "Position": {
+        "X": 736.17,
+        "Y": 45.45,
+        "Z": 244.3
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": 737.08,
+        "Y": 46.0,
+        "Z": 216.91
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 736.96,
+        "Y": 46.0,
+        "Z": 203.53
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 758.03,
+        "Y": 57.23,
+        "Z": 103.14
+      },
+      "Arguments": [
+        "7000"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 730.03,
+        "Y": 57.24,
+        "Z": 51.41
+      },
+      "Arguments": [
+        "30000"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 735.42,
+        "Y": 57.24,
+        "Z": 47.99
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 728.44,
+        "Y": 57.24,
+        "Z": 6.48
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "MoveTo",
+      "Position": {
+        "X": 743.37,
+        "Y": 57.24,
+        "Z": 11.51
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 783.53,
+        "Y": 76.47,
+        "Z": -26.36
+      },
+      "Arguments": [
+        "10000"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "PausePandora",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "20000"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Interactable",
+      "Position": {
+        "X": 784.2133,
+        "Y": 76.473755,
+        "Z": -27.364529
+      },
+      "Arguments": [
+        "16140"
+      ],
+      "Note": "Shishu White Baboon"
+    },
+    {
+      "Tag": "None",
+      "Name": "SelectString",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Arguments": [
+        "1"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 783.98,
+        "Y": 76.47,
+        "Z": -27.01
+      },
+      "Arguments": [
+        "3000"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 746.77,
+        "Y": 89.73,
+        "Z": -151.26
+      },
+      "Arguments": [
+        "500"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 744.64,
+        "Y": 89.73,
+        "Z": -151.2
+      },
+      "Arguments": [
+        "500"
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "Revival",
+      "Name": "Revival",
+      "Position": {
+        "X": 740.96,
+        "Y": 89.73,
+        "Z": -160.56
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Boss",
+      "Position": {
+        "X": 740.97,
+        "Y": 91.0,
+        "Z": -192.5
+      },
+      "Arguments": [
+        ""
+      ],
+      "Note": ""
+    },
+    {
+      "Tag": "None",
+      "Name": "Wait",
+      "Position": {
+        "X": 740.92,
+        "Y": 91.0,
+        "Z": -203.3
+      },
+      "Arguments": [
+        "500"
+      ],
+      "Note": ""
+    }
+  ],
+  "Meta": {
+    "CreatedAt": 106,
+    "Changelog": [
+      {
+        "Version": 161,
+        "Change": "Converted to new JSON Structure"
+      },
+      {
+        "Version": 163,
+        "Change": "Converted to newer JSON Structure"
+      },
+      {
+        "Version": 164,
+        "Change": "Converted to JSON Structure with Tags"
+      },
+      {
+        "Version": 189,
+        "Change": "Adjusted tags to string values"
+      },
+      {
+        "Version": 268,
+        "Change": ""
+      },
+      {
+        "Version": 268,
+        "Change": "fix monkey interaction"
+      }
+    ],
+    "Notes": []
+  }
+}

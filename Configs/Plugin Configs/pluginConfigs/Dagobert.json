@@ -1,0 +1,29 @@
+{
+  "$type": "Dagobert.Configuration, Dagobert",
+  "Version": 0,
+  "HQ": true,
+  "GetMBPricesDelayMS": 1528,
+  "MarketBoardKeepOpenMS": 1000,
+  "ShowErrorsInChat": true,
+  "EnablePinchKey": false,
+  "PinchKey": 81,
+  "EnablePostPinchkey": true,
+  "PostPinchKey": 16,
+  "UndercutMode": 0,
+  "UndercutAmount": 1,
+  "MaxUndercutPercentage": 100.0,
+  "UndercutSelf": false,
+  "ShowPriceAdjustmentsMessages": true,
+  "ShowRetainerNames": true,
+  "TTSWhenAllDone": false,
+  "TTSWhenAllDoneMsg": "Finished auto pinching all retainers",
+  "TTSWhenEachDone": false,
+  "TTSWhenEachDoneMsg": "Auto Pinch done",
+  "TTSVolume": 20,
+  "DontUseTTS": false,
+  "EnabledRetainerNames": [],
+  "LastKnownRetainerNames": [
+    "Dalavaran",
+    "Hadarvaran"
+  ]
+}

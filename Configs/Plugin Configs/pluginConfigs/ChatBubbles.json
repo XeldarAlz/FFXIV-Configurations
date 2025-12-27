@@ -1,0 +1,809 @@
+{
+  "$type": "ChatBubbles.Config, ChatBubbles",
+  "Version": 1,
+  "Channels": [
+    10
+  ],
+  "Timer": 7,
+  "BubbleFunctionality": 0,
+  "Hide": false,
+  "friendsOnly": false,
+  "fcOnly": false,
+  "partyOnly": false,
+  "TextScale": false,
+  "SelfLock": false,
+  "BubbleSize": 1.0,
+  "DefaultScale": 1.0,
+  "Switch": true,
+  "YalmCap": 99,
+  "AttachmentPointID": 0,
+  "assBubbles": true,
+  "chaosMode": false,
+  "oneTimeModal": false,
+  "TextColour": [
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    },
+    {
+      "$type": "ChatBubbles.UiColorPick, ChatBubbles",
+      "Choice": 0,
+      "Option": 0
+    }
+  ],
+  "BubbleColours": [
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0,
+      "W": 0.0
+    }
+  ],
+  "BubbleColours2": [
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    },
+    {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.0
+    }
+  ],
+  "Queue": 3
+}

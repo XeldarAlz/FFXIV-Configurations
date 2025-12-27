@@ -1,0 +1,11 @@
+{
+  "$type": "Eventy.Configuration, Eventy",
+  "ShowDtrEntry": true,
+  "UseShortVersion": true,
+  "HideForZeroEvents": true,
+  "ShowPvP": false,
+  "Subdomain": 0,
+  "ShowCompletedEvents": false,
+  "CompletedEvents": [],
+  "Version": 0
+}

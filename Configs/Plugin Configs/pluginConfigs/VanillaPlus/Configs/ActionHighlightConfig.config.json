@@ -1,0 +1,8 @@
+{
+  "UseGlocalPreAntMs": true,
+  "PreAntTimeMs": 3000,
+  "ShowOnlyInCombat": true,
+  "AntOnlyOnFinalStack": true,
+  "ShowOnlyUsableActions": true,
+  "ActiveActions": {}
+}

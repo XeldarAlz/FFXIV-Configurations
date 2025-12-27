@@ -1,0 +1,317 @@
+{
+  "$type": "YesAlready.Configuration, YesAlready",
+  "Version": 2,
+  "Enabled": true,
+  "MessageChannel": 1,
+  "ForcedYesKey": 0,
+  "ForcedTalkKey": 0,
+  "DisableKey": 0,
+  "SeparateForcedKeys": false,
+  "RootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Enabled": true,
+    "Children": [
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "RequiresPlayerConditions": false,
+        "PlayerConditions": "",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true,
+        "Enabled": true,
+        "Text": "Use the teleporter?"
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "RequiresPlayerConditions": false,
+        "PlayerConditions": "",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true,
+        "Enabled": true,
+        "Text": "Leave duty?"
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "RequiresPlayerConditions": false,
+        "PlayerConditions": "",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true,
+        "Enabled": true,
+        "Text": "Reach out and touch the rift?"
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "RequiresPlayerConditions": false,
+        "PlayerConditions": "",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true,
+        "Enabled": true,
+        "Text": "Use the lantern oil?"
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "RequiresPlayerConditions": false,
+        "PlayerConditions": "",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true,
+        "Enabled": true,
+        "Text": "Enter the aetherial flow?"
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "RequiresPlayerConditions": false,
+        "PlayerConditions": "",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true,
+        "Enabled": true,
+        "Text": "Place the sun sphere into the depression in the pedestal?"
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "RequiresPlayerConditions": false,
+        "PlayerConditions": "",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true,
+        "Enabled": true,
+        "Text": "Place the moon sphere into the depression in the pedestal?"
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "RequiresPlayerConditions": false,
+        "PlayerConditions": "",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true,
+        "Enabled": true,
+        "Text": "Place the star sphere into the depression in the pedestal?"
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "RequiresPlayerConditions": false,
+        "PlayerConditions": "",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true,
+        "Enabled": true,
+        "Text": "Use the imperial identification key to deactivate the barrier?"
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "RequiresPlayerConditions": false,
+        "PlayerConditions": "",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true,
+        "Enabled": true,
+        "Text": "Open the door?"
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "RequiresPlayerConditions": false,
+        "PlayerConditions": "",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true,
+        "Enabled": true,
+        "Text": "Use the steel lever to repair the gate winch?"
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "RequiresPlayerConditions": false,
+        "PlayerConditions": "",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true,
+        "Enabled": true,
+        "Text": "Unlock the barracks door?"
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "RequiresPlayerConditions": false,
+        "PlayerConditions": "",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true,
+        "Enabled": true,
+        "Text": "Proceed to the next area?"
+      }
+    ]
+  },
+  "OkRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Enabled": true,
+    "Children": [
+      {
+        "$type": "YesAlready.OkEntryNode, YesAlready",
+        "Enabled": false,
+        "Text": "Add some text here!"
+      }
+    ]
+  },
+  "ListRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Enabled": true,
+    "Children": [
+      {
+        "$type": "YesAlready.ListEntryNode, YesAlready",
+        "TargetRestricted": false,
+        "TargetText": "",
+        "Enabled": false,
+        "Text": "Add some text here!"
+      }
+    ]
+  },
+  "TalkRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Enabled": true,
+    "Children": [
+      {
+        "$type": "YesAlready.TalkEntryNode, YesAlready",
+        "TargetText": "Your text goes here",
+        "Enabled": false,
+        "Text": ""
+      }
+    ]
+  },
+  "NumericsRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Enabled": true,
+    "Children": [
+      {
+        "$type": "YesAlready.NumericsEntryNode, YesAlready",
+        "IsPercent": true,
+        "Percentage": 100,
+        "Quantity": 0,
+        "Enabled": false,
+        "Text": "Add some text here!"
+      }
+    ]
+  },
+  "CustomRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Enabled": true,
+    "Children": [
+      {
+        "$type": "YesAlready.CustomEntryNode, YesAlready",
+        "Addon": "",
+        "UpdateState": true,
+        "CallbackParams": "",
+        "Enabled": false,
+        "Text": "Add some text here!"
+      }
+    ]
+  },
+  "DesynthDialogEnabled": false,
+  "DesynthBulkDialogEnabled": false,
+  "MaterialAttachDialogEnabled": false,
+  "OnlyMeldWhenGuaranteed": true,
+  "MateriaRetrieveDialogEnabled": false,
+  "ItemInspectionResultEnabled": false,
+  "ItemInspectionResultRateLimiter": 0,
+  "RetainerTaskAskEnabled": false,
+  "RetainerTaskResultEnabled": false,
+  "GrandCompanySupplyReward": false,
+  "ShopCardDialog": false,
+  "ShopExchangeItemDialogEnabled": false,
+  "JournalResultCompleteEnabled": false,
+  "ContentsFinderConfirmEnabled": false,
+  "ContentsFinderOneTimeConfirmEnabled": false,
+  "InclusionShopRememberEnabled": false,
+  "InclusionShopRememberCategory": 2,
+  "InclusionShopRememberSubcategory": 6,
+  "GuildLeveDifficultyConfirm": false,
+  "FallGuysRegisterConfirm": false,
+  "FallGuysExitConfirm": false,
+  "RetainerTransferListConfirm": false,
+  "RetainerTransferProgressConfirm": false,
+  "DesynthesisResults": false,
+  "AetherialReductionResults": false,
+  "FashionCheckQuit": false,
+  "LordOfVerminionQuit": false,
+  "ChocoboRacingQuit": false,
+  "PartyFinderJoinConfirm": false,
+  "GimmickYesNo": false,
+  "AutoCollectable": false,
+  "LotteryWeeklyInput": true,
+  "TradeMultiple": false,
+  "TransmuteMode": 0,
+  "KupoOfFortune": false,
+  "CustomDeliveries": false,
+  "MKSRecordQuit": true,
+  "FrontlineRecordQuit": true,
+  "DataCentreTravelConfirmEnabled": false,
+  "AirShipExplorationResultFinalize": false,
+  "AirShipExplorationResultRedeploy": false,
+  "MiragePrismRemoveDispel": false,
+  "MiragePrismExecuteCast": false,
+  "BannerPreviewUpdate": false,
+  "WKSRewardClose": false,
+  "WKSAnnounceHide": false,
+  "DifficultySelectYesNoEnabled": false,
+  "DifficultySelectYesNo": 2,
+  "CustomCallbacks": []
+}
